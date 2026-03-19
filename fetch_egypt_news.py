@@ -2,10 +2,10 @@
 fetch_egypt_news.py
 Fetches RSS feeds from Egyptian news sources, translates non-English content
 to English, categorizes stories, and writes up to 20 stories per category
-into docs/Egypt_news.json.
+into docs/egypt_news.json.
 
 Output published via GitHub Pages at:
-https://stratagemdrive.github.io/egypt-local/Egypt_news.json
+https://stratagemdrive.github.io/egypt-local/egypt_news.json
 """
 
 import json
@@ -42,7 +42,7 @@ FEEDS = [
 CATEGORIES = ["Diplomacy", "Military", "Energy", "Economy", "Local Events"]
 MAX_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
-OUTPUT_PATH = os.path.join("docs", "Egypt_news.json")
+OUTPUT_PATH = os.path.join("docs", "egypt_news.json")
 
 # ---------------------------------------------------------------------------
 # Category keyword mapping
