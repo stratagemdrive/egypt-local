@@ -29,10 +29,10 @@ jobs:
       - name: Run news aggregator
         run: python fetch_egypt_news.py
 
-      - name: Commit and push Egypt_news.json
+      - name: Commit and push egypt_news.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/Egypt_news.json
-          git diff --cached --quiet || git commit -m "chore: update Egypt_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git add docs/egypt_news.json
+          git diff --cached --quiet || git commit -m "chore: update egypt_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
