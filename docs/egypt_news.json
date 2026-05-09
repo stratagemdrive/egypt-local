@@ -1,5 +1,33 @@
 [
   {
+    "title": "Rubio: The Ukrainian-Russian talks are currently on hold... and we are ready for mediation if an opportunity arises",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964487",
+    "published_date": "2026-05-09T11:41:28+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "The trial of the murderer of his wife in Menoufia has been postponed until next Monday",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964470",
+    "published_date": "2026-05-09T11:40:26+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "The Governor of Kafr El-Sheikh follows up on the paving work on Al-Labishi Road in Sidi Ghazi.. Pictures",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964474",
+    "published_date": "2026-05-09T11:32:15+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Iran’s injured supreme leader out of public view but still shaping strategy, US intel assesses",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/irans-injured-supreme-leader-out-of-public-view-but-still-shaping-strategy-us-intel-assesses/",
+    "published_date": "2026-05-09T08:49:04+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "With a power of up to 828 horsepower... Lucid Gravity family performance and equipment",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6963783",
@@ -112,32 +140,67 @@
     "category": "Diplomacy"
   },
   {
-    "title": "After crucial talks, Trump announces an imminent agreement with Iran",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/after-crucial-talks-trump-announces-an-imminent-agreement-with-iran/",
-    "published_date": "2026-05-07T08:21:16+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Catherine, Princess of Wales, to travel to Italy in first overseas royal engagement since cancer treatment",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/catherine-princess-of-wales-to-travel-to-italy-in-first-overseas-royal-engagement-since-cancer-treatment/",
-    "published_date": "2026-05-07T07:51:36+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Gold prices in the Kingdom of Saudi Arabia, 21 karat, today, Thursday, May 7, 2026",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4263920",
-    "published_date": "2026-05-07T00:58:41+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Due to disagreements between them, a worker kills his cousin in Menoufia with a penetrating stab",
+    "title": "The occupation army: An explosive-laden Hezbollah drone was found near the Lebanese border",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962057",
-    "published_date": "2026-05-06T23:19:04+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.elbalad.news/6964486",
+    "published_date": "2026-05-09T11:42:17+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "For your benefit...an awareness initiative to protect employees of the administrative apparatus from addiction in Minya",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964434",
+    "published_date": "2026-05-09T11:40:58+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "The Muslim Council of Elders strongly condemns the terrorist attack in the Moroccan city of Smara",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964472",
+    "published_date": "2026-05-09T11:36:33+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Until 6 p.m.. The Cairo Chamber and Supply launches the evening service for the commercial registry",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964466",
+    "published_date": "2026-05-09T11:34:59+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Operating the first phase of the Al-Fashn axis and two phases in the Dayrut axis photo",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964473",
+    "published_date": "2026-05-09T11:34:16+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Hezbollah's weapons change the equation... Why did Israel's losses continue in southern Lebanon?",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964475",
+    "published_date": "2026-05-09T11:34:04+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "With 5,300 trips...the Haramain Train increases its readiness to serve the guests of God during the Hajj season",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964468",
+    "published_date": "2026-05-09T11:29:50+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "‘It was a real hell’: Palestinian journalist on his year in Israeli prison",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/it-was-a-real-hell-palestinian-journalist-on-his-year-in-israeli-prison/",
+    "published_date": "2026-05-09T08:59:47+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Putin’s scaled down Victory Parade getting smaller by the day",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/putins-scaled-down-victory-parade-getting-smaller-by-the-day/",
+    "published_date": "2026-05-09T08:52:02+00:00",
+    "category": "Military"
   },
   {
     "title": "Trump: America may allow the transfer of military forces from Germany to Poland",
@@ -214,69 +277,6 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/israeli-military-says-it-killed-senior-hezbollah-commander-in-beirut-strike/",
     "published_date": "2026-05-07T12:38:19+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Cooperation between the National Committee for Disability and the Actors Syndicate to correct the image of people of determination in drama",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962579",
-    "published_date": "2026-05-07T12:21:55+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "A huge settlement with iPhone owners.. The Siri crisis is escalating, so what is the story?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962577",
-    "published_date": "2026-05-07T12:21:52+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Mustafa Al-Shahdi: I thank Abu Raida, Walid Dabas, and the league clubs for supporting me after the cruciate ligament injury",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962593",
-    "published_date": "2026-05-07T12:19:01+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Closing the Strait of Hormuz threatens the global economy, and ships have been stuck for months...an expert explains",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962591",
-    "published_date": "2026-05-07T12:18:06+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Prime Minister: April inflation numbers are stable despite the repercussions of the war",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/avideo/4264236",
-    "published_date": "2026-05-07T11:50:44+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Prime Minister: The fourth quarter of the current fiscal year will show more repercussions of the war",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/avideo/4264223",
-    "published_date": "2026-05-07T11:39:53+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "French aircraft carrier Charles de Gaulle heads towards Red Sea and the Gulf of Aden",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/french-aircraft-carrier-charles-de-gaulle-heads-towards-red-sea-and-the-gulf-of-aden/",
-    "published_date": "2026-05-07T09:46:49+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Defense Minister meets military personnel of Southern Military Zone",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/defense-minister-meets-military-personnel-of-southern-military-zone/",
-    "published_date": "2026-05-07T09:22:06+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "188 thousand dollars.. Details of FIFA’s punishment against Zamalek because of Ferreira",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962187",
-    "published_date": "2026-05-06T23:30:04+00:00",
     "category": "Military"
   },
   {
@@ -560,6 +560,132 @@
     "category": "Economy"
   },
   {
+    "title": "Without license plates... drivers of two transport vehicles were arrested for driving recklessly in Zahraa El Maadi",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964478",
+    "published_date": "2026-05-09T11:39:50+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The Governor of South Sinai honors the champions of mixed martial arts in Nuweiba",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964457",
+    "published_date": "2026-05-09T11:36:36+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Minya Governorate: 31 establishments were closed and 111 various reports were issued during a campaign in Minya and Mallawi centers.",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964481",
+    "published_date": "2026-05-09T11:35:44+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Reda Heikal: Zamalek fans are the team now",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964471",
+    "published_date": "2026-05-09T11:34:19+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The Governor of the Red Sea meets with the people of Hafafit and directs that their basic demands be quickly met",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964401",
+    "published_date": "2026-05-09T11:33:03+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "President Sisi inaugurates the new headquarters of Senghor University",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964467",
+    "published_date": "2026-05-09T11:30:47+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Will it be brought early before Eid? The date for disbursing the pension is June 2026",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964462",
+    "published_date": "2026-05-09T11:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The entire journey from the preliminary to the final... Zamalek and the Capital Union write the decisive chapter in the Confederation",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964351",
+    "published_date": "2026-05-09T11:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "A hidden blur in the flow of time.. Does this affect our daily lives?",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964323",
+    "published_date": "2026-05-09T11:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Gold prices within a week...a global jump, and 21 karat rose to 7,035 pounds",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6964438",
+    "published_date": "2026-05-09T11:26:27+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt Announced Monorail Ticket Prices",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/05/09/egypt-announced-monorail-ticket-prices/",
+    "published_date": "2026-05-09T10:20:10+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "PM joins inauguration of Djibouti’s President Guelleh",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/pm-joins-inauguration-of-djiboutis-president-guelleh/",
+    "published_date": "2026-05-09T09:24:58+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "PM reviews outcomes of comprehensive medical convoy organized by Supreme Medical Committee in Assiut",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/pm-reviews-outcomes-of-comprehensive-medical-convoy-organized-by-supreme-medical-committee-in-assiut/",
+    "published_date": "2026-05-09T09:20:37+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "President Sisi attends opening of new HQ of Senghor University in New Borg El Arab city",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/president-sisi-attends-opening-of-new-hq-of-senghor-university-in-new-borg-el-arab-city/",
+    "published_date": "2026-05-09T09:18:18+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egyptian-French partnership strengthened by Macron’s Alexandria visit",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egyptian-french-partnership-strengthened-by-macrons-alexandria-visit/",
+    "published_date": "2026-05-09T09:13:28+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hantavirus cases nearly doubled in Argentina in the past year. Experts say climate change is to blame",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/hantavirus-cases-nearly-doubled-in-argentina-in-the-past-year-experts-say-climate-change-is-to-blame/",
+    "published_date": "2026-05-09T08:56:41+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt’s Sharm El Luli named among the world’s top three beaches for 2026: Daily Mail",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypts-sharm-el-luli-named-among-the-worlds-top-three-beaches-for-2026-daily-mail/",
+    "published_date": "2026-05-09T08:14:21+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt launches East Nile Monorail first phase – ticket prices announced",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypt-launches-east-nile-monorail-first-phase-ticket-prices-announced/",
+    "published_date": "2026-05-09T08:11:50+00:00",
+    "category": "Local Events"
+  },
+  {
     "title": "Prayer times in Aswan today, Saturday 5/9/2026",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6964044",
@@ -571,132 +697,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6963988",
     "published_date": "2026-05-09T00:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "They declined again...the prices of poultry and dairy products declined today in the markets",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6963944",
-    "published_date": "2026-05-09T00:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The answered supplication of the last third of the night...the best supplications for bringing sustenance and relieving distress",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6963862",
-    "published_date": "2026-05-09T00:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The store's secret to successful cream caramel: smooth and tender the first time",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6962158",
-    "published_date": "2026-05-09T00:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "A weather phenomenon that begins within hours... Meteorology reveals surprises in the weather condition starting today",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6963943",
-    "published_date": "2026-05-08T23:54:56+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Intensive efforts in New Valley to improve services and raise the efficiency of facilities",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964004",
-    "published_date": "2026-05-08T23:50:14+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Qena News | The Medical Commission dealt with 4,000 cases during April.. Saving a young man and searching for 2 drowned in the Nag Hammadi Nile",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964059",
-    "published_date": "2026-05-08T23:49:56+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The President of Farafra follows up on the preparations for installing a CT scan machine in the hospital",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964006",
-    "published_date": "2026-05-08T23:23:14+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "A young person was killed and another injured in a car run over accident in the Aswan-Cairo desert",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964053",
-    "published_date": "2026-05-08T23:15:32+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Governor of Dakahlia bids farewell to the first group of pilgrims from civil society organizations",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964029",
-    "published_date": "2026-05-08T23:09:12+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Joy turned into a funeral.. Two young men died and 5 others were injured during a newlyweds’ wedding in Gharbia",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964041",
-    "published_date": "2026-05-08T23:08:32+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Aswan News | A project to develop the Tabiya area...guiding models for middle school integration students",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964042",
-    "published_date": "2026-05-08T23:05:48+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "They fell from the top of the bridge... saving a young man and searching for 2 drowned in the Nile River in Nag Hammadi",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6964047",
-    "published_date": "2026-05-08T23:02:09+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt suspends new licenses for restaurants and cafes in four neighborhoods to protect heritage",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypt-suspends-new-licenses-for-restaurants-and-cafes-in-four-neighborhoods-to-protect-heritage/",
-    "published_date": "2026-05-08T22:12:40+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dream Pop Finds Its Soul in Classical Arabic Poetry",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/05/08/dream-pop-finds-its-soul-in-classical-arabic-poetry/",
-    "published_date": "2026-05-08T15:34:18+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Under the slogan “Serving the Houses of God is an Honor.” The Governor of Kafr El-Sheikh announces the opening of 4 mosques in the governorate’s centers",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4265022",
-    "published_date": "2026-05-08T13:52:57+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Season 1447-2026.. The frequency of the Saudi Hajj channel on Nilesat and the method of setting",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4265021",
-    "published_date": "2026-05-08T13:52:36+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "El Gouna formation to face Arab Contractors in the league",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4265019",
-    "published_date": "2026-05-08T13:49:38+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Madbouly presents a comprehensive convoy to provide free medical services in the most needy areas in Assiut",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4265018",
-    "published_date": "2026-05-08T13:49:31+00:00",
     "category": "Local Events"
   }
 ]
