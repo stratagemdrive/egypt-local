@@ -1,5 +1,19 @@
 [
   {
+    "title": "I will choose you...a touching video of a woman thanking her husband during the ordeal of her illness",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972344",
+    "published_date": "2026-05-15T23:52:37+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "UAE: We reserve all our rights in the face of any threat or hostile action",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972346",
+    "published_date": "2026-05-15T23:51:06+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "“Like today”... the beginning of the Nakba, May 15, 1948",
     "source": "Al-Masry Al-Youm",
     "url": "https://www.almasryalyoum.com/news/details/4270433",
@@ -126,18 +140,11 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Trump praises Pakistan's mediation in the Washington-Tehran negotiations and refuses to replace it",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6969054",
-    "published_date": "2026-05-12T23:19:07+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Pakistan and China are discussing efforts to end the conflict between Iran and America",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4268566",
-    "published_date": "2026-05-12T17:30:30+00:00",
-    "category": "Diplomacy"
+    "title": "Sudan Nashra: Ethiopia revokes Sudanese ambassador-designate’s credentials | Juba asks Cairo to evacuate military base near Ethiopian border as preemptive move | Another Mahamid field commander defects from RSF | RSF aid coordination authority orders agencies to register, Khartoum warns against compliance",
+    "source": "Mada Masr",
+    "url": "https://www.madamasr.com/en/2026/05/15/news/u/sudan-nashra-ethiopia-revokes-sudanese-ambassador-designates-credentials-juba-asks-cairo-to-evacuate-military-base-near-ethiopian-border-as-preemptive-move-another-mahamid-field-commander-defec/",
+    "published_date": "2026-05-15T16:51:50+00:00",
+    "category": "Military"
   },
   {
     "title": "Kamel Al-Basha: I mastered the ancient Hebrew language for the sake of the last rabbi.. My role in the Companions of the Earth was difficult and its production was a huge adventure.. Dialogue",
@@ -273,11 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Revolutionary Guard: We have allowed 30 ships to cross the Strait of Hormuz since last night",
+    "title": "Aswan News | Landing of a floating hotel... Advanced mechanisms for handling diesel and gasoline... Planting Sadat Road",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6970806",
-    "published_date": "2026-05-14T12:08:18+00:00",
-    "category": "Military"
+    "url": "https://www.elbalad.news/6972307",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Somali piracy on the rise as Iran war forces ships into high-risk detours",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/somali-piracy-on-the-rise-as-iran-war-forces-ships-into-high-risk-detours/",
+    "published_date": "2026-05-15T12:28:54+00:00",
+    "category": "Energy"
   },
   {
     "title": "Energy expert: Oil prices exceeded $108... and a barrel of Brent entered the $100 base",
@@ -406,18 +420,25 @@
     "category": "Energy"
   },
   {
-    "title": "TotalEnergies, QatarEnergy, ConocoPhillips to Evaluate Offshore Syria Block",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/totalenergies-qatarenergy-and-conocophillips-sign-mou-with-spc-for-offshore-syria-block/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-qatarenergy-and-conocophillips-sign-mou-with-spc-for-offshore-syria-block",
-    "published_date": "2026-05-13T07:09:47+00:00",
-    "category": "Energy"
+    "title": "New Valley News| The Deputy Governor follows up on the service performance in Dakhla and Farafra... and equipping 14 slaughterhouses and points for free during Eid Al-Adha",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972311",
+    "published_date": "2026-05-15T23:30:00+00:00",
+    "category": "Economy"
   },
   {
-    "title": "McKinsey Eyes Expansion in Egypt’s Oil and Gas Market",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/mckinsey-eyes-expansion-in-egypts-promising-oil-and-gas-market/?utm_source=rss&utm_medium=rss&utm_campaign=mckinsey-eyes-expansion-in-egypts-promising-oil-and-gas-market",
-    "published_date": "2026-05-13T06:29:48+00:00",
-    "category": "Energy"
+    "title": "Chamber of Companies: Rafeeq application is an amazing development in services for tourism pilgrims",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972332",
+    "published_date": "2026-05-15T23:10:49+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Butchers Division: Sudanese and Djiboutian meat in the malls for 350 to 400 pounds per kilo.",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972330",
+    "published_date": "2026-05-15T23:08:25+00:00",
+    "category": "Economy"
   },
   {
     "title": "Fitch keeps Egypt's rating at B stable and improves its outlook on the economy.. Why?",
@@ -539,164 +560,143 @@
     "category": "Economy"
   },
   {
-    "title": "Talaat Moustafa Group achieves EGP 30bn in sales for “The Spine” in 15 days",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/05/13/talaat-moustafa-group-achieves-egp-30bn-in-sales-for-the-spine-in-15-days/?utm_source=rss&utm_medium=rss&utm_campaign=talaat-moustafa-group-achieves-egp-30bn-in-sales-for-the-spine-in-15-days",
-    "published_date": "2026-05-13T06:50:21+00:00",
-    "category": "Economy"
+    "title": "The Telegraph: Starmer may resign and hand over his position to the Mayor of Manchester",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972343",
+    "published_date": "2026-05-15T23:41:47+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "D. Mina Badie Abdel Malik writes: Sunboats, art, and journalism in the memoirs of “Kamal Al-Malakh”",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4268808",
-    "published_date": "2026-05-13T04:09:59+00:00",
-    "category": "Economy"
+    "title": "Aswan is witnessing a dust storm and weather fluctuations in several residential areas",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972342",
+    "published_date": "2026-05-15T23:31:21+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Important words on a sensitive topic",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4268768",
-    "published_date": "2026-05-13T01:04:20+00:00",
-    "category": "Economy"
+    "title": "Algerian praise for the good reception Zamalek received before the Confederation Cup final",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972339",
+    "published_date": "2026-05-15T23:29:55+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Khaled Al-Ghandour: Zamalek fans will be a surprise in the match between Al-Ittihad Al-Capital City",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972336",
+    "published_date": "2026-05-15T23:20:28+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Youssef Ibrahim qualifies for the final of the CIB World Squash Championship",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972331",
+    "published_date": "2026-05-15T23:18:26+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "With a difference of two goals.. Fathi Sanad: Zamalek fans do not deserve to be subjected to any shock",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972329",
+    "published_date": "2026-05-15T23:17:10+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Parliamentarian: The stray dog ​​crisis requires a decisive plan... and the government does not have a clear solution",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972335",
+    "published_date": "2026-05-15T23:15:25+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "US State Department: We support Lebanon and Israel in their political and security path",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972334",
+    "published_date": "2026-05-15T23:11:30+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "On the occasion of Eid Al-Adha.. How to obtain the sacrifice of endowments in installments without interest",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972328",
+    "published_date": "2026-05-15T23:07:38+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The North African Football Federation assigns the organization of the U-20 championship to Egypt",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972301",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Sulaf Fawakherji: Being honored at the Aswan Festival reflects my love for Egypt and its fans",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972293",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Imam Ashour receives the child Zain at his home and presents him with an Al-Ahly T-shirt a witness",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972291",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "What is the meaning of the repentance of the Prophet, who is infallible? Ali Jumah explains",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972278",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Urgent instructions from the President of Cairo University regarding end-of-year exams",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6972247",
+    "published_date": "2026-05-15T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Cadillac Returns to Egypt Through Partnership With Al Mansour Automotive",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/05/15/cadillac-returns-to-egypt-through-partnership-with-al-mansour-automotive/",
+    "published_date": "2026-05-15T18:22:49+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Hamza Abdelkarim Says He Is Adapting in Barcelona",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/05/15/hamza-abdelkarim-adapting-in-barcelona/",
+    "published_date": "2026-05-15T13:55:17+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "OFFICIAL: FC Nordsjælland Sign Ibrahim Adel Permanently",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/05/15/official-fc-nordsjaelland-sign-ibrahim-adel-permanently/",
+    "published_date": "2026-05-15T13:37:52+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "More than 110 Nobel laureates demand “unconditional release” of Narges Mohammadi",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/more-than-110-nobel-laureates-demand-unconditional-release-of-narges-mohammadi/",
+    "published_date": "2026-05-15T12:33:27+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Iran’s foreign minister demands release of citizens detained by Kuwait",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/irans-foreign-minister-demands-release-of-citizens-detained-by-kuwait/",
+    "published_date": "2026-05-15T12:31:15+00:00",
+    "category": "Local Events"
   },
   {
     "title": "Sharia’s position on the proposal to grant the wife the right to annul the contract within the first 6 months.. video",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6971798",
     "published_date": "2026-05-15T12:27:07+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "He declared a new country governed by AI. He’s not sure it will end well",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/he-declared-a-new-country-governed-by-ai-hes-not-sure-it-will-end-well/",
-    "published_date": "2026-05-15T12:25:58+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Secrets of Al Salam Workshop.. How did carpentry boards turn into drug caches?| private",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971796",
-    "published_date": "2026-05-15T12:25:22+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The success of organizing the launch celebration of the Labor Market Observatory and the One Million Digital Licenses Initiative for Students",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971803",
-    "published_date": "2026-05-15T12:22:25+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Customary marriage is legal... Women are required to be deprived of government services if they abstain from seeing each other",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971794",
-    "published_date": "2026-05-15T12:21:56+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "\"Nour\" discusses isolation and psychological disorder on the fourth night of the closing festival of theater clubs",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971790",
-    "published_date": "2026-05-15T12:15:28+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "American report: The Pharaohs are aiming for a historic appearance in the 2026 World Cup",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971793",
-    "published_date": "2026-05-15T12:13:02+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Faraj Amer raises controversy: The continuation of the Real Madrid duo causes crises",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971788",
-    "published_date": "2026-05-15T12:09:39+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "CAF decides to extend the deadline for obtaining a license for clubs until July",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971784",
-    "published_date": "2026-05-15T12:05:48+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Japan: An earthquake measuring 6.4 Richter strikes eastern Honshu Island",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971787",
-    "published_date": "2026-05-15T12:03:47+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Minister of Higher Education witnesses the strategic vision meeting for Russia and the Islamic world",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971781",
-    "published_date": "2026-05-15T12:03:18+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Installments over 20 years.. Link to the housing conditions document for all Egyptians 2026",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971765",
-    "published_date": "2026-05-15T12:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "How to make Muammar rice with chicken and cream...with an irresistible taste",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971683",
-    "published_date": "2026-05-15T12:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The 5 latest Zero cars under one million pounds in the Egyptian market",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6971491",
-    "published_date": "2026-05-15T12:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Photos: Yasmine Sabri joins global stars at the 79th edition of Cannes",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/photos-yasmine-sabri-joins-global-stars-at-the-79th-edition-of-cannes/",
-    "published_date": "2026-05-15T11:09:37+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ancient tomb and 3,500-year-old coffins discovered in Luxor",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/ancient-tomb-and-3500-year-old-coffins-discovered-in-luxor/",
-    "published_date": "2026-05-15T11:06:36+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Pope Tawadros II denounces same-sex marriages",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/pope-tawadros-ii-denounces-same-sex-marriages/",
-    "published_date": "2026-05-15T10:16:51+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Heat wave in Egypt eases on Friday",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/heat-wave-in-egypt-eases-on-friday/",
-    "published_date": "2026-05-15T10:00:50+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "PM: Government aims to improve quality of services nationwide",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/pm-government-aims-to-improve-quality-of-services-nationwide/",
-    "published_date": "2026-05-15T09:33:36+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "“Like today”... Correction Revolution, May 15, 1971",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4270436",
-    "published_date": "2026-05-15T02:35:09+00:00",
     "category": "Local Events"
   }
 ]
