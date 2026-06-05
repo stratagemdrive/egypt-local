@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ireland prevents Ben Gvir and Smotrich from entering its territory",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993739",
+    "published_date": "2026-06-05T13:29:37+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Lebanese President: Iran is using us as a bargaining chip and we are paying the price",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993734",
+    "published_date": "2026-06-05T13:26:47+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Four killed in Lebanon as new ceasefire frays",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/four-killed-in-lebanon-as-new-ceasefire-frays/",
+    "published_date": "2026-06-05T12:11:03+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Iran war is pushing millions toward acute hunger, new UN report finds",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/iran-war-is-pushing-millions-toward-acute-hunger-new-un-report-finds/",
+    "published_date": "2026-06-05T12:08:52+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Zelensky needles Putin in personal letter calling for face-to-face peace talks",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/zelensky-needles-putin-in-personal-letter-calling-for-face-to-face-peace-talks/",
+    "published_date": "2026-06-05T11:57:12+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Egypt, S. Korea, Japan discuss boosting economic, developmental cooperation",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypt-s-korea-japan-discuss-boosting-economic-developmental-cooperation/",
+    "published_date": "2026-06-05T09:28:19+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Amir Hisham: Al-Ahly will announce the new coach soon",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6993290",
@@ -98,46 +140,53 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Trump gives the government access to advanced AI models",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284447",
-    "published_date": "2026-06-03T13:43:05+00:00",
-    "category": "Diplomacy"
+    "title": "Salam: The return of the displaced is a national priority...and Lebanon is not an arena for other people’s wars",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993745",
+    "published_date": "2026-06-05T13:37:49+00:00",
+    "category": "Military"
   },
   {
-    "title": "Ter Stegen is on the radar of the Dutch League",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284438",
-    "published_date": "2026-06-03T13:29:53+00:00",
-    "category": "Diplomacy"
+    "title": "Miteb: Zizou did not cause any problems in Al-Ahly’s dressing room",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993733",
+    "published_date": "2026-06-05T13:29:31+00:00",
+    "category": "Military"
   },
   {
-    "title": "21 karat in the middle of trading..the price of gold today, Wednesday 3-6-2026 in Egypt",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284408",
-    "published_date": "2026-06-03T12:47:29+00:00",
-    "category": "Diplomacy"
+    "title": "Egypt's competitor...Belgium star: Ready for the World Cup and eager to participate in the World Cup",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993731",
+    "published_date": "2026-06-05T13:25:38+00:00",
+    "category": "Military"
   },
   {
-    "title": "Ton of Ezz now.. The price of iron today, Wednesday, June 3, 2026, factory floor and market",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284287",
-    "published_date": "2026-06-03T10:56:24+00:00",
-    "category": "Diplomacy"
+    "title": "Experts: Involving children in marital disputes leaves long-term psychological scars",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993732",
+    "published_date": "2026-06-05T13:25:04+00:00",
+    "category": "Military"
   },
   {
-    "title": "21 karat is now manufactured.. The price of gold today, Wednesday, June 3, 2026, according to goldsmiths, after the decline",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284166",
-    "published_date": "2026-06-03T08:34:08+00:00",
-    "category": "Diplomacy"
+    "title": "Economist: The decline in global growth reflects the accumulated repercussions of wars and geopolitical tensions",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993725",
+    "published_date": "2026-06-05T13:23:23+00:00",
+    "category": "Military"
   },
   {
-    "title": "Fish prices in Matrouh today, Wednesday, June 3, 2026",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284153",
-    "published_date": "2026-06-03T08:23:54+00:00",
-    "category": "Diplomacy"
+    "title": "Parliamentarian: We must not leave young people prey to rumours...awareness is the first line of defense for national security",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993730",
+    "published_date": "2026-06-05T13:23:20+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Video: Footage documents extent of damage at Kuwait Airport",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/video-footage-documents-extent-of-damage-at-kuwait-airport/",
+    "published_date": "2026-06-05T09:38:40+00:00",
+    "category": "Military"
   },
   {
     "title": "Before cooking it.. What do white spots on frozen meat mean?",
@@ -228,55 +277,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6992198",
     "published_date": "2026-06-04T01:00:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Because of a fragmented video about prayer... Content creator: They distorted my words and I am being subjected to threats",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992229",
-    "published_date": "2026-06-04T00:43:19+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Shabana: Some members of the Zamalek Council learned of the suspension of registration from the media",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992199",
-    "published_date": "2026-06-04T00:30:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "An American official was arrested on charges of supplying Iran with sensitive nuclear and military equipment",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992228",
-    "published_date": "2026-06-04T00:27:46+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "A military and popular funeral for “Al-Beheiri”, the police assistant, in his hometown of Beheira",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4284886",
-    "published_date": "2026-06-03T23:28:16+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Egypt condemns attacks on Bahrain, Kuwait, warns against escalating threats to Gulf security",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/06/03/egypt-condemns-attacks-on-bahrain-kuwait-warns-against-escalating-threats-to-gulf-security/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-condemns-attacks-on-bahrain-kuwait-warns-against-escalating-threats-to-gulf-security",
-    "published_date": "2026-06-03T18:48:15+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "The Minister of Supply reveals a surprise: a huge strategic reserve of goods... and a new support program soon",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6991791",
-    "published_date": "2026-06-03T15:23:01+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Beware.. These foods increase the symptoms of arthritis",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6991317",
-    "published_date": "2026-06-03T15:18:10+00:00",
     "category": "Military"
   },
   {
@@ -420,6 +420,34 @@
     "category": "Energy"
   },
   {
+    "title": "The price of the dollar this evening, 6-5-2026",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993748",
+    "published_date": "2026-06-05T13:45:10+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Minister of Investment: The government continues to implement legislative and digital reforms to facilitate doing business",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993737",
+    "published_date": "2026-06-05T13:29:33+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Fabinho: We take all matches seriously... and I am happy to return to the Brazilian national team before the World Cup",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993726",
+    "published_date": "2026-06-05T13:23:29+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Environment minister reviews Red Sea marine ecosystem protection efforts",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/environment-minister-reviews-red-sea-marine-ecosystem-protection-efforts/",
+    "published_date": "2026-06-05T09:29:30+00:00",
+    "category": "Economy"
+  },
+  {
     "title": "It reached 51.95 pounds...the highest dollar price in banks today",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6993186",
@@ -532,32 +560,102 @@
     "category": "Economy"
   },
   {
-    "title": "Egypt’s trade deficit widens 48.8% to $4.6bn in March amid rising imports",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/06/03/egypts-trade-deficit-widens-48-8-to-4-6bn-in-march-amid-rising-imports/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-trade-deficit-widens-48-8-to-4-6bn-in-march-amid-rising-imports",
-    "published_date": "2026-06-03T17:48:28+00:00",
-    "category": "Economy"
+    "title": "Mohamed Ramadan, Assistant Secretary for Central Investment in Mostaqbal Watan",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993749",
+    "published_date": "2026-06-05T13:45:39+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Africa Export Development Fund: We have invested more than $1.3 billion in various companies and projects",
+    "title": "Sheikh of Endowments: Hajj is a school of morals and a message that does not end with the end of the rituals",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6991786",
-    "published_date": "2026-06-03T15:24:45+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/6993746",
+    "published_date": "2026-06-05T13:40:58+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "215 kilos of unsuitable food were destroyed... and 16 catering violations were issued in El Alamein and Sidi Abdel Rahman.",
+    "title": "Cain and Abel.. A brother kills his younger brother in Menoufia",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6991790",
-    "published_date": "2026-06-03T15:22:32+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/6993747",
+    "published_date": "2026-06-05T13:40:09+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Taxes and rising costs are pushing unemployment in Britain to its highest levels",
+    "title": "To maximize the use of state assets, the Governor of Aswan inspects the ongoing work to establish the residential hotel",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6991794",
-    "published_date": "2026-06-03T15:22:04+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/6993741",
+    "published_date": "2026-06-05T13:39:34+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The angel overturned... 3 people were injured in an accident in Dakahlia",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993742",
+    "published_date": "2026-06-05T13:37:03+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Uganda: A patient infected with Ebola died and 3 others were confirmed infected with the virus",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993743",
+    "published_date": "2026-06-05T13:34:30+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Technology News | WhatsApp launches a new feature on iPhone phones.. Researchers reveal a serious vulnerability in Gemini in Android",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993627",
+    "published_date": "2026-06-05T13:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The director of preparatory education in Qalyubia was imprisoned for 4 days on charges of blackmailing the guardian of a female student",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993736",
+    "published_date": "2026-06-05T13:26:02+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Farag Amer: Major changes in the Al-Ahly football sector after losing championships",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/6993735",
+    "published_date": "2026-06-05T13:24:11+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "DJ Snake Turns Cairo’s Streets Into the Backdrop of New ‘Cairo Express’ Music Video",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/06/05/dj-snake-turns-cairos-streets-into-the-backdrop-of-new-cairo-express-music-video/",
+    "published_date": "2026-06-05T13:02:25+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The world’s biggest tech companies are betting big on computers that control themselves",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/the-worlds-biggest-tech-companies-are-betting-big-on-computers-that-control-themselves/",
+    "published_date": "2026-06-05T12:05:55+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Amr Diab trending on X with his latest song ‘Enta Teadar’",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/amr-diab-trending-on-x-with-his-latest-song-enta-teadar/",
+    "published_date": "2026-06-05T10:21:20+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egyptian government announces shift from in-kind to cash subsidies",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egyptian-government-announces-shift-from-in-kind-to-cash-subsidies/",
+    "published_date": "2026-06-05T10:03:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt, China eye mega sports complex for 2027 African Games",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypt-china-eye-mega-sports-complex-for-2027-african-games/",
+    "published_date": "2026-06-05T09:26:52+00:00",
+    "category": "Local Events"
   },
   {
     "title": "Al Muhairi: Supporting the workers of Palestine is a trade union and humanitarian duty that does not accept bargaining",
@@ -599,104 +697,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/6993117",
     "published_date": "2026-06-05T00:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Egyptian national team, born in 2007, continues to prepare for the two friendly matches in Russia",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993311",
-    "published_date": "2026-06-04T23:52:38+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Mohamed Kamal thanks the Football Association for supporting the women’s team",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993310",
-    "published_date": "2026-06-04T23:50:22+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Egyptian women's national football team continues its preparations for the two Tunisian matches",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993309",
-    "published_date": "2026-06-04T23:43:42+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "In preparation for the Brazil friendly...a private lesson from Hossam Hassan for the Egyptian national team's attacking line",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993305",
-    "published_date": "2026-06-04T23:33:08+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "UNIFIL Deputy Spokesman: The killing of a peacekeeper brings UNIFIL’s losses to 7 dead since March 2",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993215",
-    "published_date": "2026-06-04T23:30:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Pharaohs in the World Cup...the stars of the Egyptian national team in the gym in preparation for the friendly match with Brazil",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993304",
-    "published_date": "2026-06-04T23:27:37+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Amr Mahmoud Yassin responds to the rumor of his separation from Yasmine Abdel Aziz in Ramadan 2027",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993303",
-    "published_date": "2026-06-04T23:26:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Sabri Fawaz praises the choir of farmers in the village of Dawama: They express the Egyptian identity with a sincere feeling",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993301",
-    "published_date": "2026-06-04T23:20:19+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "In 3 installments.. Details of Al-Ahly’s financial settlement with Torop",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6993287",
-    "published_date": "2026-06-04T23:19:18+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "IQOS Launches “Electric Dreams”, a Journey Across 6 Dream Destinations around the world",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/06/04/iqos-launches-electric-dreams-a-journey-across-6-dream-destinations-around-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=iqos-launches-electric-dreams-a-journey-across-6-dream-destinations-around-the-world",
-    "published_date": "2026-06-04T15:45:51+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Saturday.. 163 thousand students take the Al-Azhar secondary school certificate exams 2025/2026",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992826",
-    "published_date": "2026-06-04T13:52:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ebola and aviation... How do health authorities deal with suspected cases?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992578",
-    "published_date": "2026-06-04T13:52:04+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Between profit and pollution.. How did coal mines become a headache in the West Bank?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992512",
-    "published_date": "2026-06-04T13:51:58+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Ismailia Governor meets with veteran Ismailia players and confirms: Preserving the club’s interest and identity is the basis of dialogue",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/6992829",
-    "published_date": "2026-06-04T13:51:55+00:00",
     "category": "Local Events"
   }
 ]
