@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trump: My disagreement with Elon Musk is simple, and I expect him to donate SpaceX shares",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025210",
+    "published_date": "2026-07-02T23:35:29+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "The European Union warns: Reducing joint spending will increase the burden on national governments",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7024652",
@@ -11,6 +18,20 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7024647",
     "published_date": "2026-07-02T12:38:39+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "“Preparing for a major war.” The organizers of a Russian marching conference pledge to confront NATO and contradict the Kremlin.",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/avideo/4306514",
+    "published_date": "2026-07-02T12:33:10+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "New European Union border rules confuse Europe's airports",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4306506",
+    "published_date": "2026-07-02T12:27:44+00:00",
     "category": "Diplomacy"
   },
   {
@@ -119,25 +140,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Jotun Egypt invests over $100m in new plant, expands exports and launches local fire protection manufacturing",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/06/30/jotun-egypt-invests-over-100m-in-new-plant-expands-exports-and-launches-local-fire-protection-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=jotun-egypt-invests-over-100m-in-new-plant-expands-exports-and-launches-local-fire-protection-manufacturing",
-    "published_date": "2026-06-30T20:49:58+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Qatar denies hosting US-Iran talks as diplomacy enters technical phase",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/06/30/qatar-denies-hosting-us-iran-talks-as-diplomacy-enters-technical-phase/?utm_source=rss&utm_medium=rss&utm_campaign=qatar-denies-hosting-us-iran-talks-as-diplomacy-enters-technical-phase",
-    "published_date": "2026-06-30T19:14:56+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "The Security Council extends the sanctions regime on the Democratic Republic of the Congo until July 2027",
+    "title": "To integrate the media with human rights work.. Amr Al-Laithi signs a protocol with the Human Rights Commission in Jeddah",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7022451",
-    "published_date": "2026-06-30T13:02:06+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.elbalad.news/7024748",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "The commander of US forces in Europe resigned amid the Trump administration’s efforts to restructure military deployment",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025218",
+    "published_date": "2026-07-02T23:56:48+00:00",
+    "category": "Military"
   },
   {
     "title": "The occupation army claims to have found a tunnel and military equipment belonging to Hezbollah in southern Lebanon",
@@ -266,18 +280,32 @@
     "category": "Military"
   },
   {
-    "title": "Absent from Android phones.. Apple monitors exclusive features in the “iOS 20” system",
+    "title": "Beni Suef Health refers absentees for investigation during a surprise inspection tour",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7021813",
-    "published_date": "2026-06-29T23:37:03+00:00",
-    "category": "Military"
+    "url": "https://www.elbalad.news/7025215",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Morsi was not a legitimate president. Ahmed Moussa: General Sisi knew the Brotherhood’s plans in 2013",
+    "title": "Without drinking oil...how to make crispy fish",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7021757",
-    "published_date": "2026-06-29T23:30:00+00:00",
-    "category": "Military"
+    "url": "https://www.elbalad.news/7025168",
+    "published_date": "2026-07-02T23:00:00+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Genel Energy Secures Egypt Foothold with $360 Mn Capricorn Takeover",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/genel-energy-secures-egypt-foothold-with-360-mn-capricorn-takeover/?utm_source=rss&utm_medium=rss&utm_campaign=genel-energy-secures-egypt-foothold-with-360-mn-capricorn-takeover",
+    "published_date": "2026-07-02T18:44:41+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Badawi, Al Jaber Discuss Expanding ADNOC Investments in Egypt",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/badawi-al-jaber-discuss-expanding-adnoc-investments-in-egypt/?utm_source=rss&utm_medium=rss&utm_campaign=badawi-al-jaber-discuss-expanding-adnoc-investments-in-egypt",
+    "published_date": "2026-07-02T17:44:47+00:00",
+    "category": "Energy"
   },
   {
     "title": "At a cost of 315 million pounds.. The Governor of the Red Sea lays the foundation stone for the “Qusayr” electricity distributor.",
@@ -298,6 +326,13 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/will-fuel-prices-decrease-in-egypt-following-the-global-decline/",
     "published_date": "2026-07-02T12:39:52+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "The head of the Gold Division reveals to Al-Masry Al-Youm the extent of the impact of the turmoil in the global price of the yellow metal on the local market",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4306497",
+    "published_date": "2026-07-02T12:09:43+00:00",
     "category": "Energy"
   },
   {
@@ -385,39 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "Badawi Reviews EGAS’ Operations, Work Plans",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/badawi-reviews-egas-operations-work-plans/?utm_source=rss&utm_medium=rss&utm_campaign=badawi-reviews-egas-operations-work-plans",
-    "published_date": "2026-06-30T13:35:33+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "To sell them on the black market.. 3 gas stations were seized that disposed of 17 thousand liters of petroleum products in Beheira",
+    "title": "Details of the highest dollar price in banks now",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7022452",
-    "published_date": "2026-06-30T13:03:50+00:00",
-    "category": "Energy"
+    "url": "https://www.elbalad.news/7025074",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Economy"
   },
   {
-    "title": "The Minister of Petroleum follows up with the leaders of EGAS on the workflow and current challenges",
+    "title": "Minya Governor: We support serious investors...and we work to increase economic growth",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7022443",
-    "published_date": "2026-06-30T13:01:57+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "US Treasury Secretary: Iran is trying to sell oil at reduced prices",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7022449",
-    "published_date": "2026-06-30T13:01:51+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Badawi, Esmat Discuss Joint Strategy to Secure Summer Energy Supply",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/badawi-esmat-discuss-joint-strategy-to-secure-egypts-summer-energy-supply/?utm_source=rss&utm_medium=rss&utm_campaign=badawi-esmat-discuss-joint-strategy-to-secure-egypts-summer-energy-supply",
-    "published_date": "2026-06-30T09:50:26+00:00",
-    "category": "Energy"
+    "url": "https://www.elbalad.news/7025152",
+    "published_date": "2026-07-02T23:00:00+00:00",
+    "category": "Economy"
   },
   {
     "title": "Egypt, Nigeria explore investment opportunities in digital, healthcare sectors",
@@ -546,18 +560,116 @@
     "category": "Economy"
   },
   {
-    "title": "Suez Canal Revenue Rises 23 Percent in the 2025/2026 Fiscal Year as Regional Tensions Ease",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/06/30/suez-canal-revenue-rises-23-percent-in-the-2025-2026-fiscal-year-as-regional-tensions-ease/",
-    "published_date": "2026-06-30T12:48:11+00:00",
-    "category": "Economy"
+    "title": "In preparation for the Egypt-Australia match...ways to prepare an unforgettable football evening",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025180",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Egypt’s tourism sector continues its upward trajectory, seeking new phase beyond beaches and resorts",
+    "title": "Former Al-Ahly player: The Australia match does not accept mistakes... and tactical commitment is the password",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025137",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Umm Kulthum’s play was presented at the Jerash Festival",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025090",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "What are the types of prostration and what is said about them? Know the supplications that are said about her",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025020",
+    "published_date": "2026-07-03T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Portugal and Croatia tied 0-0 in the first half of the World Cup",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025219",
+    "published_date": "2026-07-02T23:59:23+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Iranian President: Khamenei's departure is the beginning of a new chapter of steadfastness",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025217",
+    "published_date": "2026-07-02T23:55:31+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The Egyptian national team concludes its training in Dallas in preparation for facing Australia.. Pictures",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025216",
+    "published_date": "2026-07-02T23:48:21+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "From Tehran to Mashhad... 6 stops for the funeral of the Iranian leader",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025214",
+    "published_date": "2026-07-02T23:37:04+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Will Mojtaba Khamenei appear at his father's funeral?",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025206",
+    "published_date": "2026-07-02T23:32:30+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The moment Ali Khamenei's body arrived at the funeral ceremony site in Tehran",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025201",
+    "published_date": "2026-07-02T23:29:58+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "New details about ending the lives of a father and his two sons in Saqalta.. The victim’s brother opened fire on an Nile boat",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025207",
+    "published_date": "2026-07-02T23:25:32+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The Academy of Arts launches the first microtheatro shows with the participation of young talents",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025161",
+    "published_date": "2026-07-02T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Qamha: Egyptian foreign policy has witnessed a strategic shift since 2014",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7025089",
+    "published_date": "2026-07-02T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt-Iran Draw Sets World Cup Audience Record",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/07/02/egypt-iran-draw-sets-world-cup-audience-record/",
+    "published_date": "2026-07-02T15:37:50+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Petroleum Minister Tours PETROJET’s UAE Oilfield Infrastructure Project",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/petroleum-minister-visits-petrojets-uae-oilfield-infrastructure-project-site/?utm_source=rss&utm_medium=rss&utm_campaign=petroleum-minister-visits-petrojets-uae-oilfield-infrastructure-project-site",
+    "published_date": "2026-07-02T13:32:35+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "What are the most and least expensive Egyptian antiquities sold at auctions?",
     "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypts-tourism-sector-continues-its-upward-trajectory-seeking-new-phase-beyond-beaches-and-resorts/",
-    "published_date": "2026-06-30T09:29:51+00:00",
-    "category": "Economy"
+    "url": "https://www.egyptindependent.com/what-are-the-most-and-least-expensive-egyptian-antiquities-sold-at-auctions/",
+    "published_date": "2026-07-02T13:13:40+00:00",
+    "category": "Local Events"
   },
   {
     "title": "Muhammad Imam is experiencing his first theatrical experience with the show “Prince of the World” in the Riyadh season",
@@ -585,118 +697,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7024650",
     "published_date": "2026-07-02T12:45:29+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Customs announces the harvest of the x-ray examination system during June 2026",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024654",
-    "published_date": "2026-07-02T12:45:03+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Health closes 15 unlicensed addiction and psychiatric treatment centers in Obour City",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024656",
-    "published_date": "2026-07-02T12:44:53+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Details of the crucial hours.. What remains for Zamalek for the African Champions League?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024655",
-    "published_date": "2026-07-02T12:43:47+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Following the death of a child and a woman...a team arrives to search for the bridge in the village of Al-Qaraqra in Sharqiya",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024641",
-    "published_date": "2026-07-02T12:41:14+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "After the launch of “Atman”.. MP Adel Etman: The family now has more effective protection tools",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024649",
-    "published_date": "2026-07-02T12:39:34+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Al-Osaily: The launch of “My Etman Service” is a clear message that the security of Egypt’s children is a priority",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024648",
-    "published_date": "2026-07-02T12:38:41+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The Coordination Committee thanks President Sisi for issuing the bonus law",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024646",
-    "published_date": "2026-07-02T12:38:20+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "A hero passed away in the heart of the fire.. An officer died in the Nasser facility fire",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7024635",
-    "published_date": "2026-07-02T12:36:43+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/openai-in-talks-to-give-trump-administration-a-5-stake-in-the-company-ft-reports/",
-    "published_date": "2026-07-02T12:22:34+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "China tells its ethnic minorities to integrate or face consequences with sweeping new unity law",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/china-tells-its-ethnic-minorities-to-integrate-or-face-consequences-with-sweeping-new-unity-law/",
-    "published_date": "2026-07-02T12:17:09+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Khamenei’s funeral marks “beginning of a new chapter” for Iran, says country’s president",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/khameneis-funeral-marks-beginning-of-a-new-chapter-for-iran-says-countrys-president/",
-    "published_date": "2026-07-02T12:14:55+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Over 70 South Sudanese stranded aboard ‘voluntary return’ ferry in Aswan after Sudan refuses entry, Egypt bars return",
-    "source": "Mada Masr",
-    "url": "https://www.madamasr.com/en/2026/07/02/news/u/over-70-south-sudanese-stranded-aboard-voluntary-return-ferry-in-aswan-after-sudan-refuses-entry-egypt-bars-return/",
-    "published_date": "2026-07-02T10:48:54+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Yasmine Abdel-Aziz unveils poster for her latest film “Take Care of Yourself”",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/yasmine-abdel-aziz-reveals-poster-for-her-latest-film-take-care-of-yourself/",
-    "published_date": "2026-07-02T09:33:10+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt, Italy discuss strengthening bilateral ties, regional issues",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypt-italy-discuss-strengthening-bilateral-ties-regional-issues/",
-    "published_date": "2026-07-02T09:29:29+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "PM wishes Egypt win ahead of Australia clash in World Cup",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/pm-wishes-egypt-win-ahead-of-australia-clash-in-world-cup/",
-    "published_date": "2026-07-02T09:28:47+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "225th aid convoy heads for Gaza",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/225th-aid-convoy-heads-for-gaza/",
-    "published_date": "2026-07-02T09:26:18+00:00",
     "category": "Local Events"
   }
 ]
