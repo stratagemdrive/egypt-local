@@ -1,5 +1,19 @@
 [
   {
+    "title": "Trump recalls the red card incident against Folarin Balogun in the World Cup",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041983",
+    "published_date": "2026-07-17T23:07:08+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Nantes Plan Further Sanctions Against Mostafa Mohamed",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/07/17/nantes-plan-further-sanctions-against-mostafa-mohamed/",
+    "published_date": "2026-07-17T16:50:56+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "A surprise that turns the scales...the events of Episode 9 of the Under the Sun series",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7041362",
@@ -126,24 +140,45 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Trump renews threat to hit Iran’s power plants and bridges. Would such strikes be legal?",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/trump-renews-threat-to-hit-irans-power-plants-and-bridges-would-such-strikes-be-legal/",
-    "published_date": "2026-07-15T12:13:30+00:00",
-    "category": "Diplomacy"
+    "title": "Iran bombs an American base in Saudi Arabia with a ballistic missile",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041994",
+    "published_date": "2026-07-17T23:39:14+00:00",
+    "category": "Military"
   },
   {
-    "title": "Congo: Confirmed cases of Ebola have risen to more than 2,000, including 754 deaths",
+    "title": "Capdivia announces that he has failed to travel to America to attend the World Cup final",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7039195",
-    "published_date": "2026-07-15T12:04:51+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.elbalad.news/7041988",
+    "published_date": "2026-07-17T23:21:02+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Iran: 3 people killed and 8 others injured as a result of the American attack against Hormozgan",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041990",
+    "published_date": "2026-07-17T23:20:25+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Saudi Arabia: Sirens sounded in Al-Kharj and Yanbu after missiles were detected coming from Iran",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041985",
+    "published_date": "2026-07-17T23:08:10+00:00",
+    "category": "Military"
   },
   {
     "title": "China imposes restrictions on romantic relationships with artificial intelligence",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7041332",
     "published_date": "2026-07-17T12:00:00+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Salah Decision Could Come Soon, Agent Rejects Publicity Claims",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/07/17/salah-decision-could-come-soon-agent-rejects-publicity-claims/",
+    "published_date": "2026-07-17T11:24:04+00:00",
     "category": "Military"
   },
   {
@@ -245,39 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "Kuwaiti defenses confront Iranian attacks... and sirens sound in Bahrain",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7039959",
-    "published_date": "2026-07-15T23:59:36+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Planning minister discusses multidimensional poverty measurement with Oxford initiative",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/07/15/planning-minister-discusses-multidimensional-poverty-measurement-with-oxford-initiative/?utm_source=rss&utm_medium=rss&utm_campaign=planning-minister-discusses-multidimensional-poverty-measurement-with-oxford-initiative",
-    "published_date": "2026-07-15T18:22:08+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Bullets on social media... The Interior Ministry reveals the mystery of the video of the shooting in Sohag",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4316218",
-    "published_date": "2026-07-15T16:32:12+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "For 12 hours... water will be cut off in a number of areas of Esna in Luxor next Friday",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4316147",
-    "published_date": "2026-07-15T14:55:58+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "A mysterious document rewrites the scene... Did Sinwar enter the war knowing the price?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7039153",
-    "published_date": "2026-07-15T12:06:51+00:00",
-    "category": "Military"
+    "title": "CocoPhilips Acquires 42% Stake in BP Energy Kirkuk",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/conocophillips-acquires-42-stake-in-a-bp-oil-venture-in-iraq/?utm_source=rss&utm_medium=rss&utm_campaign=conocophillips-acquires-42-stake-in-a-bp-oil-venture-in-iraq",
+    "published_date": "2026-07-17T12:40:36+00:00",
+    "category": "Energy"
   },
   {
     "title": "Airfares face new hikes as Hormuz tensions pressure aviation costs",
@@ -413,11 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "IEA Raises Concerns Over EU Methane Rules’ Impact on Oil Imports",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/iea-raises-concerns-over-eu-methane-rules-impact-on-oil-imports/?utm_source=rss&utm_medium=rss&utm_campaign=iea-raises-concerns-over-eu-methane-rules-impact-on-oil-imports",
-    "published_date": "2026-07-15T06:25:47+00:00",
-    "category": "Energy"
+    "title": "Walid Salah Abdel Latif: The personality of Mohamed Salah must be exploited and Hossam Hassan’s contract renewed",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041972",
+    "published_date": "2026-07-17T23:12:36+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Federation of Tourism Chambers: “Rafiq” enhances the protection of pilgrims... and electronic monitoring and penalties against brokers",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041766",
+    "published_date": "2026-07-17T23:00:00+00:00",
+    "category": "Economy"
   },
   {
     "title": "Andy Burnham wins leadership of the British Labor Party... and Starmer submits his resignation to the King",
@@ -546,18 +560,109 @@
     "category": "Economy"
   },
   {
-    "title": "A meeting to discuss the executive position of the “Decent Life 2” initiative projects in Luxor",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4316150",
-    "published_date": "2026-07-15T14:58:33+00:00",
-    "category": "Economy"
+    "title": "Weather for the week: high temperature and dense water mist in these areas",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041995",
+    "published_date": "2026-07-17T23:39:41+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "During his tour of New Alamein.. the Prime Minister inspects the “Mazarine Compound” project",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4316144",
-    "published_date": "2026-07-15T14:51:04+00:00",
-    "category": "Economy"
+    "title": "Messi praises Lamine's talent and stresses the difficulty of stopping him in the World Cup final",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041993",
+    "published_date": "2026-07-17T23:38:52+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Xavi praises Messi's performance against England: He continues to write history",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041992",
+    "published_date": "2026-07-17T23:25:03+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Infantino: The World Cup is the greatest event that brought humanity together... and he praises Trump's support",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041991",
+    "published_date": "2026-07-17T23:22:33+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Mustafa Schubert celebrates his marriage in a family atmosphere on the North Coast | photo",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041987",
+    "published_date": "2026-07-17T23:19:25+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Nancy Ajram promotes her world tour by releasing the official video",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041982",
+    "published_date": "2026-07-17T23:15:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump: What Messi did was an incredible genius...and Ronaldo has an exceptional talent",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041978",
+    "published_date": "2026-07-17T23:11:19+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Spain coach: We have confidence to compete in the World Cup final and we respect Argentina's strength",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041986",
+    "published_date": "2026-07-17T23:09:29+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump calls for hosting the World Cup and proposes that it be organized between America and China",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041980",
+    "published_date": "2026-07-17T23:01:27+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Venezuela: The number of victims of the two earthquakes rose to 5,069 people",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041965",
+    "published_date": "2026-07-17T23:00:46+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Insurance and pensions for delivery and irregular workers, under the directives of President Sisi.. The government provides good news to millions",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041775",
+    "published_date": "2026-07-17T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Approximately 400 horsepower.. Specifications of the 2026 Porsche 911 “T Cabriolet” | photo",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041739",
+    "published_date": "2026-07-17T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The dawn prayer is written and answered.. Fajr prayer supplications for sustenance, relief, and facilitating matters",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7041712",
+    "published_date": "2026-07-17T23:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "OFFICIAL: Pyramids Appoint Rulani Mokwena After Jurcic Exit",
+    "source": "KingFut",
+    "url": "https://www.kingfut.com/2026/07/17/official-pyramids-appoint-rulani-mokwena-after-jurcic-exit/",
+    "published_date": "2026-07-17T20:25:28+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Sudan Nashra: US truce proposal reaches Khartoum after Saudi-influenced revisions, RSF withdrawals a sticking point | Military blocks RSF push for new supply line in Blue Nile | Military, allies launch renewed campaign in North Darfur | RSF retakes West Darfur’s Kulbus after ‘tactical’ joint force withdrawal",
+    "source": "Mada Masr",
+    "url": "https://www.madamasr.com/en/2026/07/17/news/u/sudan-nashra-us-truce-proposal-reaches-khartoum-after-saudi-influenced-revisions-rsf-withdrawals-a-sticking-point-military-blocks-rsf-push-for-new-supply-line-in-blue-nile-military-allies-launc/",
+    "published_date": "2026-07-17T15:40:18+00:00",
+    "category": "Local Events"
   },
   {
     "title": "O Ever-Living, O Ever-Living.. The preacher of the Sacred Mosque explains 40 virtues of supplicating with these two names",
@@ -592,111 +697,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7041205",
     "published_date": "2026-07-17T12:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Great turnout for the Friday exhibition of the Islamic Research Academy at Al-Azhar Mosque.. Pictures",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041418",
-    "published_date": "2026-07-17T11:54:48+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Two people were killed as a result of violent thunderstorms that caused power outages for 53,000 people in France.",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041416",
-    "published_date": "2026-07-17T11:52:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Al-Ahly leads...Egyptian clubs’ revenues from their players’ participation in the 2026 World Cup",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041417",
-    "published_date": "2026-07-17T11:52:17+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Bravery at its finest...a young man helps his friend in a wheelchair and steals the hearts of Egyptians",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041415",
-    "published_date": "2026-07-17T11:51:03+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Beaten, detained, and forced to sign...the daughter of a Moski businessman reveals the details of their assault",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041409",
-    "published_date": "2026-07-17T11:50:30+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Today's Friday sermon.. The Vice President of Al-Azhar University reveals images of the right of way in Islam",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041414",
-    "published_date": "2026-07-17T11:47:51+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "During the Friday sermon.. Secretary of Islamic Research: Sharia has made power in supporting truth and redressing injustices",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041403",
-    "published_date": "2026-07-17T11:47:07+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "In support of Generation Z.. the Arab League organizes a visit for students of Shanghai University for Studies",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041405",
-    "published_date": "2026-07-17T11:45:49+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "A car fell into a hole in Asmarat",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041404",
-    "published_date": "2026-07-17T11:44:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Minya Endowments announces the opening of Al-Hamd Mosque in Mallawi and Al-Samhan Mosque in Dermawas.. Pictures",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7041402",
-    "published_date": "2026-07-17T11:44:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt to Launch First Virtual Hospital in Africa",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/07/17/egypt-to-launch-first-virtual-hospital-in-africa/",
-    "published_date": "2026-07-17T10:46:53+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "5 free scholarships to study at the Egyptian Japanese University for North Sinai students",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4317371",
-    "published_date": "2026-07-17T07:14:49+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Where and when to watch Argentina vs. Spain in the epic 2026 World Cup final",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/where-and-when-to-watch-argentina-vs-spain-in-the-epic-2026-world-cup-final/",
-    "published_date": "2026-07-17T07:12:31+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Alexandria-Cairo train schedules today, Friday, July 17, 2026",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4317370",
-    "published_date": "2026-07-17T07:10:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt foreign reserves hit historic high of 55 billion dollars",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypt-foreign-reserves-hit-historic-high-of-55-billion-dollars/",
-    "published_date": "2026-07-17T07:06:32+00:00",
     "category": "Local Events"
   }
 ]
