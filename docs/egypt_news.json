@@ -1,5 +1,26 @@
 [
   {
+    "title": "A main water line was broken on Arab League Street",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069589",
+    "published_date": "2026-08-11T11:27:15+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "A drinking water emergency in Giza to repair a sudden break in a water line on Arab League Street",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069578",
+    "published_date": "2026-08-11T11:26:45+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Trump applies new condition on Iran talks: compensation from Tehran",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/trump-applies-new-condition-on-iran-talks-compensation-from-tehran/",
+    "published_date": "2026-08-11T07:19:28+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "The Jeddah Federation agrees to loan Faisal Al-Ghamdi to NEOM... Details of the financial agreement",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7069187",
@@ -119,25 +140,60 @@
     "category": "Diplomacy"
   },
   {
-    "title": "How both Iran and Oman have economic claims to the Strait of Hormuz",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/how-both-iran-and-oman-have-economic-claims-to-the-strait-of-hormuz/",
-    "published_date": "2026-08-09T12:02:59+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "The Arab League is looking into strengthening preparedness for nuclear and radiological emergencies",
+    "title": "Justice signs a cooperation protocol with the National Academy for Training and Qualification of Youth",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7067271",
-    "published_date": "2026-08-09T11:21:53+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.elbalad.news/7069602",
+    "published_date": "2026-08-11T11:38:29+00:00",
+    "category": "Military"
   },
   {
-    "title": "Egypt, Iraq FMs discuss regional developments, efforts on de-escalation",
+    "title": "Uncovering the remains of a road caravanserai in the city of Asila in North Sinai on the Royal Trail",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069599",
+    "published_date": "2026-08-11T11:33:04+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "An expanded meeting to follow up on the position of the “Decent Life” initiative projects in Assiut",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4335262",
+    "published_date": "2026-08-11T10:27:51+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "A missile, closed curtains, and a supply truck... the full story of Trump’s secret transfer from Türkiye against the backdrop of an Iranian threat? (Video captures the incident)",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4335259",
+    "published_date": "2026-08-11T10:22:03+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "National Spokesman for Childhood and Motherhood: All children in Egypt are under our care",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4335252",
+    "published_date": "2026-08-11T10:19:12+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Egypt, Japan discuss expanding education projects",
     "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypt-iraq-fms-discuss-regional-developments-efforts-on-de-escalation/",
-    "published_date": "2026-08-09T09:51:10+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.egyptindependent.com/egypt-japan-discuss-expanding-education-projects/",
+    "published_date": "2026-08-11T09:31:17+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Ukrainian drone strike kills 13 inside Russia, authorities say, in deadliest attack in two years",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/ukrainian-drone-strike-kills-13-inside-russia-authorities-say-in-deadliest-attack-in-two-years/",
+    "published_date": "2026-08-11T07:32:01+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Libya Warns of Zawiya Refinery Shutdown After Drone Attacks",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/libya-warns-of-zawiya-refinery-shutdown-after-drone-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=libya-warns-of-zawiya-refinery-shutdown-after-drone-attacks",
+    "published_date": "2026-08-11T06:26:48+00:00",
+    "category": "Military"
   },
   {
     "title": "Hearing two explosions in the Yemeni Mokha... and the Houthis targeting Marib with ballistic missiles",
@@ -224,60 +280,25 @@
     "category": "Military"
   },
   {
-    "title": "Russian Defense: About 1.3 thousand Ukrainian soldiers were neutralized and 1,134 marchers were shot down within a day.",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4334348",
-    "published_date": "2026-08-10T10:23:10+00:00",
-    "category": "Military"
+    "title": "Egypt Targets 20% Increase in Exploration and Production Activities in 2026",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/egypt-targets-20-increase-in-exploration-and-production-activities-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-targets-20-increase-in-exploration-and-production-activities-in-2026",
+    "published_date": "2026-08-11T11:17:04+00:00",
+    "category": "Energy"
   },
   {
-    "title": "A fast-moving wildfire forces more than 20,000 people to evacuate in western Canada",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/a-fast-moving-wildfire-forces-more-than-20000-people-to-evacuate-in-western-canada/",
-    "published_date": "2026-08-10T08:14:39+00:00",
-    "category": "Military"
+    "title": "Dana Gas’ Egypt Production Grows 7% YoY in H1 2026",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/dana-gas-egypt-production-grows-7-yoy-in-h1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dana-gas-egypt-production-grows-7-yoy-in-h1-2026",
+    "published_date": "2026-08-11T09:29:12+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Muhammad Rashwan: I blame Ayman Al-Shari’i for accusing Sabiha of having a psychological disorder",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7067947",
-    "published_date": "2026-08-09T23:30:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Netanyahu pledges to Kushner to calm the Gaza attacks... and give Trump’s plan a chance to begin disarmament",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7067965",
-    "published_date": "2026-08-09T23:21:59+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "A chess game.. Trump threatens to strangle Iran economically instead of a military strike to force it to retreat",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7067956",
-    "published_date": "2026-08-09T23:00:54+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Just like Neymar did... behind the scenes of Bezerra’s crisis with Zamalek",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7067954",
-    "published_date": "2026-08-09T22:59:49+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "FRA issues Egypt’s first regulations governing establishment, operation of hedge funds",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/09/fra-issues-egypts-first-regulations-governing-establishment-operation-of-hedge-funds/?utm_source=rss&utm_medium=rss&utm_campaign=fra-issues-egypts-first-regulations-governing-establishment-operation-of-hedge-funds",
-    "published_date": "2026-08-09T17:30:08+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Israel rejects Trump’s Gaza peace plan, saying no withdrawal until Hamas disarms",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/israel-rejects-trumps-gaza-peace-plan-saying-no-withdrawal-until-hamas-disarms/",
-    "published_date": "2026-08-09T12:00:03+00:00",
-    "category": "Military"
+    "title": "OPEC Output Climbs 1.17 mmbbl/d in July as Gulf Supplies Recover",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/opec-output-climbs-1-17-mmbbl-d-in-july-as-gulf-supplies-recover/?utm_source=rss&utm_medium=rss&utm_campaign=opec-output-climbs-1-17-mmbbl-d-in-july-as-gulf-supplies-recover",
+    "published_date": "2026-08-11T06:43:39+00:00",
+    "category": "Energy"
   },
   {
     "title": "I want a discount, show us a dance.. An American gas station raises controversy with an unconventional offer to its customers",
@@ -399,25 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "ADNOC Expands Tanker Fleet by $1.3 Bn to Meet Rising Oil Exports",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/adnoc-expands-tanker-fleet-by-1-3-bn-to-meet-rising-oil-exports/?utm_source=rss&utm_medium=rss&utm_campaign=adnoc-expands-tanker-fleet-by-1-3-bn-to-meet-rising-oil-exports",
-    "published_date": "2026-08-08T11:17:03+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Minister of Electricity: We are working to establish economic entities to maximize returns from earth materials and rare elements",
+    "title": "Fire surrounds a residential apartment in Maxim Compound in Shorouk...and Civil Defense intervenes",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7066082",
-    "published_date": "2026-08-08T11:07:56+00:00",
-    "category": "Energy"
+    "url": "https://www.elbalad.news/7069604",
+    "published_date": "2026-08-11T11:35:42+00:00",
+    "category": "Economy"
   },
   {
-    "title": "Japan commemorates the victims of the nuclear bombs on Hiroshima and Nagasaki",
+    "title": "International reports praise the attractiveness of Egyptian tourism for investments",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069597",
+    "published_date": "2026-08-11T11:30:38+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Member of the National Council for Human Rights: The President’s directives regarding “beaches” are a very important political and legal message",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4332710",
-    "published_date": "2026-08-08T05:51:11+00:00",
-    "category": "Energy"
+    "url": "https://www.almasryalyoum.com/news/details/4335260",
+    "published_date": "2026-08-11T10:24:20+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Trump’s Iran strategy depends on economic pain. The pain is mounting",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/trumps-iran-strategy-depends-on-economic-pain-the-pain-is-mounting/",
+    "published_date": "2026-08-11T07:12:33+00:00",
+    "category": "Economy"
   },
   {
     "title": "Sleep is the secret of cell regeneration.. Yasmine Sabry reveals the secret of her beauty",
@@ -532,171 +560,143 @@
     "category": "Economy"
   },
   {
-    "title": "“El Alamein Heritage City” is a cultural and investment destination on 260 acres",
+    "title": "Mansoura University: University cities are ready to receive students and provide a safe residence environment",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069587",
+    "published_date": "2026-08-11T11:37:39+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Full keyboard lovers are back.. Minimal officially unveils its innovative phone, Minimal Phone 2",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069607",
+    "published_date": "2026-08-11T11:37:29+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Prime Minister: The second phase of “A Decent Life” includes water, sanitation, schools and hospitals",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069608",
+    "published_date": "2026-08-11T11:37:14+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Emergency and massive campaigns led by the Deputy Governor of Port Said... containing a broken water line in the suburbs",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069580",
+    "published_date": "2026-08-11T11:37:01+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Trump accuses the top Jewish politician of abandoning Israel",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069603",
+    "published_date": "2026-08-11T11:36:45+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "After FIFA’s decision... matches that Saafan Al-Saghir, coach of the Egyptian national team’s goalkeeper, will miss",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069600",
+    "published_date": "2026-08-11T11:35:50+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "He returned the kindness with theft... A public transport driver was robbed after a humanitarian gesture with a passenger",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069581",
+    "published_date": "2026-08-11T11:35:46+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "A press conference by the Prime Minister following his tour in Gharbia Governorate",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069598",
+    "published_date": "2026-08-11T11:33:26+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "The cleaning system in Qalyubia... 5 intermediate stations, raising the efficiency of the Khanka facility, and confronting the dumping of garbage in canals and drains.",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069590",
+    "published_date": "2026-08-11T11:31:24+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Parliamentarian: Egypt is leading an effective move to stabilize the calm and prevent the region from sliding into a comprehensive confrontation",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069588",
+    "published_date": "2026-08-11T11:31:06+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Abbas Shoman: Using a person’s name without his knowledge is a crime that requires punishment",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069592",
+    "published_date": "2026-08-11T11:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "After Mohamed Salah...a new deal in the Turkish League shakes the transfer market",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069577",
+    "published_date": "2026-08-11T11:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Al-Azhar Fatwa reveals the regulations for women’s prayer in public places and during travel",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069583",
+    "published_date": "2026-08-11T11:24:55+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Higher education and culture are discussing launching a national project for Egyptian children and discovering gifted people",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7069576",
+    "published_date": "2026-08-11T11:24:21+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Shawky Gharib discusses the file of African training diplomas",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4332709",
-    "published_date": "2026-08-08T05:49:28+00:00",
-    "category": "Economy"
+    "url": "https://www.almasryalyoum.com/news/details/4335264",
+    "published_date": "2026-08-11T10:32:36+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "A. D. Hisham Abdel Hakam writes: Humanity in medicine...the most important lesson for the youth of the health sector",
+    "title": "High temperatures.. Weather conditions today, Tuesday, August 11, 2026 in Saudi Arabia",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4332707",
-    "published_date": "2026-08-08T05:40:54+00:00",
-    "category": "Economy"
+    "url": "https://www.almasryalyoum.com/news/details/4335263",
+    "published_date": "2026-08-11T10:30:32+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Cooperation between “Planning” and “Agriculture” to expand agricultural industrialization",
+    "title": "An increase of 18 thousand tons.. Supplying 538 thousand tons of wheat to Shawn and Minya silos in the 2026 season",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4332705",
-    "published_date": "2026-08-08T04:55:03+00:00",
-    "category": "Economy"
+    "url": "https://www.almasryalyoum.com/news/details/4335261",
+    "published_date": "2026-08-11T10:26:17+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Mental fatigue may be the reason.. Why do we tend to postpone important decisions in the evening?",
+    "title": "A ton of barley now...the price of rice today, Tuesday, August 11, 2026, in the markets",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4332701",
-    "published_date": "2026-08-08T04:32:05+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "In the presence of Mekky and El-Kadwany... Tamer Morsi celebrates the start of filming “Happy Chance”",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069176",
-    "published_date": "2026-08-10T23:13:56+00:00",
+    "url": "https://www.almasryalyoum.com/news/details/4335258",
+    "published_date": "2026-08-11T10:20:52+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Rescuing a woman from under the rubble.. The first pictures from the site of the partially collapsed Hadayek Al-Qubba property",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069174",
-    "published_date": "2026-08-10T23:08:28+00:00",
+    "title": "“Do you feel tired and hair loss?” 8 signs that reveal a lack of iron stores in girls and women",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4335257",
+    "published_date": "2026-08-11T10:20:06+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Tharwat Al-Kharbawi: The Brotherhood seeks to create a state of anger against the nation...and uses misleading videos to falsify awareness",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069038",
-    "published_date": "2026-08-10T23:01:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The price of the dollar, the euro, and foreign currencies today, Tuesday 8/11/2026",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069064",
-    "published_date": "2026-08-10T23:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Ford is preparing to launch the new Kuga in 2029. A design inspired by rally cars",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7068818",
-    "published_date": "2026-08-10T23:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "I am proud of Madinaty and a children's workshop at the Sharm El Sheikh Museum",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7068679",
-    "published_date": "2026-08-10T23:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "ATM withdrawal fees and daily maximum",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7068631",
-    "published_date": "2026-08-10T23:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "They paraded in their cars in Cairo.. The two defendants face this punishment",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7068422",
-    "published_date": "2026-08-10T23:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Moments of horror under the rubble.. We publish the names of the victims and those injured in the collapse of the Hadayek Al-Qubba property",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069186",
-    "published_date": "2026-08-10T22:57:45+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Messi postpones his return to America after saying goodbye to his father.. Details of the last hours in Rosario",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069184",
-    "published_date": "2026-08-10T22:55:26+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Victims under the rubble: A woman and a girl were killed and 5 were injured as a result of the collapse of a property in Hadayek al-Qubba",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069182",
-    "published_date": "2026-08-10T22:52:37+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Gabriel Jesus opens the door to Napoli...and the Italian League is at the top of his desires",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7069180",
-    "published_date": "2026-08-10T22:46:24+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt telecom regulator refers four mobile operators to public prosecution over unauthorised line registrations",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/egypt-telecom-regulator-refers-four-mobile-operators-to-public-prosecution-over-unauthorised-line-registrations/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-telecom-regulator-refers-four-mobile-operators-to-public-prosecution-over-unauthorised-line-registrations",
-    "published_date": "2026-08-10T19:43:53+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Dogs can tell when humans are happy or upset, study finds",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/dogs-can-tell-when-humans-are-happy-or-upset-study-finds/?utm_source=rss&utm_medium=rss&utm_campaign=dogs-can-tell-when-humans-are-happy-or-upset-study-finds",
-    "published_date": "2026-08-10T19:37:24+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Safa Abdo joins Impact Team 2050 as international youth advisor to ROSATOM leadership",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/safa-abdo-joins-impact-team-2050-as-international-youth-advisor-to-rosatom-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=safa-abdo-joins-impact-team-2050-as-international-youth-advisor-to-rosatom-leadership",
-    "published_date": "2026-08-10T19:30:03+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egyptian industry minister outlines updated 2030 strategy to boost exports and global integration",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/egyptian-industry-minister-outlines-updated-2030-strategy-to-boost-exports-and-global-integration/?utm_source=rss&utm_medium=rss&utm_campaign=egyptian-industry-minister-outlines-updated-2030-strategy-to-boost-exports-and-global-integration",
-    "published_date": "2026-08-10T19:25:52+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt’s health campaign delivers nearly 11 million free services in 8 days",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/egypts-health-campaign-delivers-nearly-11-million-free-services-in-8-days/?utm_source=rss&utm_medium=rss&utm_campaign=egypts-health-campaign-delivers-nearly-11-million-free-services-in-8-days",
-    "published_date": "2026-08-10T19:21:37+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt PM reviews progress of internationally backed development projects to ensure economic targets",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/08/10/egypt-pm-reviews-progress-of-internationally-backed-development-projects-to-ensure-economic-targets/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-pm-reviews-progress-of-internationally-backed-development-projects-to-ensure-economic-targets",
-    "published_date": "2026-08-10T19:00:12+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egyptian Man Rescued After Livestreaming His Kidnapping",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/08/10/egyptian-man-rescued-after-livestreaming-his-kidnapping/",
-    "published_date": "2026-08-10T15:10:15+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Family of Four Killed in New Cairo, Suspect Arrested as Investigation Continues",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/08/10/family-of-four-killed-in-new-cairo-suspect-arrested-as-investigation-continues/",
-    "published_date": "2026-08-10T14:55:52+00:00",
+    "title": "Because of “crimes against humanity.” Bashar al-Assad and his brother Maher were sentenced to death in absentia in Syria",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4335256",
+    "published_date": "2026-08-11T10:19:59+00:00",
     "category": "Local Events"
   }
 ]
