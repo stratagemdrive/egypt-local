@@ -1,9 +1,30 @@
 [
   {
+    "title": "Konyaspor reveals the truth about its negotiations to include Imam Ashour",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074508",
+    "published_date": "2026-08-15T23:20:30+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Putin appoints Artur Lyukmanov as new Russian ambassador to Egypt and Arab League",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/putin-appoints-artur-lyukmanov-as-new-russian-ambassador-to-egypt-and-arab-league/?utm_source=rss&utm_medium=rss&utm_campaign=putin-appoints-artur-lyukmanov-as-new-russian-ambassador-to-egypt-and-arab-league",
+    "published_date": "2026-08-15T18:56:02+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "7 martyrs in an Israeli raid on southern Lebanon... and a continuing military escalation",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7073813",
     "published_date": "2026-08-15T11:00:11+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "“Completely unacceptable.” Britain rebukes Netanyahu after he described London as “the first nuclear Islamic republic.”",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4338123",
+    "published_date": "2026-08-15T10:39:21+00:00",
     "category": "Diplomacy"
   },
   {
@@ -119,31 +140,115 @@
     "category": "Diplomacy"
   },
   {
-    "title": "“Their money is safe.” 5 zodiac signs who manage their money and know how to protect their money",
+    "title": "A Palestinian official: Giving the Israeli police security powers to settlers is an “effective annexation” of the West Bank",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074513",
+    "published_date": "2026-08-15T23:11:47+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Why do we celebrate the Prophet’s birthday? .. Ali Jumaa: Preserving identity in the face of the noise of the times",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074483",
+    "published_date": "2026-08-15T23:00:00+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Sudanese army raids on Rapid Support targets in Mellit, North Darfur",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074500",
+    "published_date": "2026-08-15T22:59:30+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "A journalist reveals the details of a warning session with Imam Ashour because of “Adam Watani”",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074505",
+    "published_date": "2026-08-15T22:56:41+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Zamalek warns Bezerra against escalation against him and demands that he return to training",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074498",
+    "published_date": "2026-08-15T22:37:49+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "An attack by young men on a woman and her daughter in Mansheyet El Gamal in Dakahlia raises anger.. Video",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7074499",
+    "published_date": "2026-08-15T22:36:18+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Trump escalates Hormuz rhetoric as Iran rejects US claims of control",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/trump-escalates-hormuz-rhetoric-as-iran-rejects-us-claims-of-control/?utm_source=rss&utm_medium=rss&utm_campaign=trump-escalates-hormuz-rhetoric-as-iran-rejects-us-claims-of-control",
+    "published_date": "2026-08-15T17:19:30+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Egypt prepares to introduce extended producer responsibility for packaging waste",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/egypt-prepares-to-introduce-extended-producer-responsibility-for-packaging-waste/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-prepares-to-introduce-extended-producer-responsibility-for-packaging-waste",
+    "published_date": "2026-08-15T14:40:12+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "ADIB-Egypt rolls out 50% cashback and zero-fee auto loans in “Summer Pros” campaign",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/adib-egypt-rolls-out-50-cashback-and-zero-fee-auto-loans-in-summer-pros-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=adib-egypt-rolls-out-50-cashback-and-zero-fee-auto-loans-in-summer-pros-campaign",
+    "published_date": "2026-08-15T14:27:08+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Strait of Hormuz traffic remains at a fraction of pre-war levels",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/strait-of-hormuz-traffic-remains-at-a-fraction-of-pre-war-levels/",
+    "published_date": "2026-08-15T12:54:50+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Nine killed in Israeli strikes on Lebanon, as Huthi attacks continue in Yemen. Catch up here",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/nine-killed-in-israeli-strikes-on-lebanon-as-huthi-attacks-continue-in-yemen-catch-up-here/",
+    "published_date": "2026-08-15T12:35:38+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Republicans worry their chances of keeping Congress are slipping away. Inside the Trump campaign plan to change that",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/republicans-worry-their-chances-of-keeping-congress-are-slipping-away-inside-the-trump-campaign-plan-to-change-that/",
+    "published_date": "2026-08-15T12:16:46+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "A new crisis strikes Youssef Belaili... and a dispute reaches between two clubs (details)",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4337291",
-    "published_date": "2026-08-14T01:22:04+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.almasryalyoum.com/news/details/4338139",
+    "published_date": "2026-08-15T11:22:27+00:00",
+    "category": "Military"
   },
   {
-    "title": "أخبار الوادي الجديد| المحافظ تلتقي أعضاء النواب والشيوخ.. والنائب يشارك بورشة عمل تطوير نظم عمل الإدارة المحلية",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072667",
-    "published_date": "2026-08-13T23:45:41+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "59 violation reports were issued against bakery owners in Gharbia... and this is their punishment according to the law",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7071797",
-    "published_date": "2026-08-13T23:00:00+00:00",
-    "category": "Diplomacy"
+    "title": "Trump accuses an American agency and its director of treason: “They revealed top-secret military secrets.”",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4338136",
+    "published_date": "2026-08-15T11:12:48+00:00",
+    "category": "Military"
   },
   {
     "title": "Yemeni Army: The Houthis' targeting of Mokha port will not go unpunished",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7073826",
     "published_date": "2026-08-15T11:02:13+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "An upcoming conflict between Arsenal and Manchester City... and a number flirting with Marmoush",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4338128",
+    "published_date": "2026-08-15T10:50:22+00:00",
     "category": "Military"
   },
   {
@@ -175,109 +280,11 @@
     "category": "Military"
   },
   {
-    "title": "Sudan Nashra: In cross-border offensive, RSF seizes Blue Nile’s Geisan, recaptures Kurmuk | Military repels major RSF attack on North Kordofan’s Gabra al-Sheikh | After clashes inside Kauda, SPLM-N-Otoro fighting spreads to nearby villages | Kordofan governor in RSF-led govt defects | Back-to-back Sudanese visits to Juba in mutual push to contain border, Abyei tensions",
-    "source": "Mada Masr",
-    "url": "https://www.madamasr.com/en/2026/08/14/news/politics/sudan-nashra-in-cross-border-offensive-rsf-seizes-blue-niles-geisan-recaptures-kurmuk-military-repels-major-rsf-attack-on-north-kordofans-gabra-al-sheikh-after-clashes-inside/",
-    "published_date": "2026-08-14T17:41:39+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "The preacher of the Grand Mosque warns against interpreting dreams without knowledge: A dream does not permit what is forbidden nor prohibit what is permissible",
+    "title": "The electricity meter is running out quickly? Here are 10 reasons and ways to solve them",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072975",
-    "published_date": "2026-08-14T11:28:06+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Journalist: Trump used all American weapons to force Iran to surrender, but it did not surrender",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072259",
-    "published_date": "2026-08-13T23:30:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Osama Hamdi: Insulin is an essential necessity for children with type 1",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072526",
-    "published_date": "2026-08-13T23:00:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "The first trial session of a man accused of joining a terrorist group took place in October... Sunday",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072150",
-    "published_date": "2026-08-13T23:00:00+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "“It makes a lot of difference with them.” 5 zodiac signs love appreciation, and a word of thanks makes them happy",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4337236",
-    "published_date": "2026-08-13T21:06:14+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Hackers used autonomous AI agents to attack Taiwan. Is this the future of cyberwarfare?",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/hackers-used-autonomous-ai-agents-to-attack-taiwan-is-this-the-future-of-cyberwarfare/",
-    "published_date": "2026-08-13T12:30:58+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Türkiye: The Mecca Agreement will enhance cooperation in the field of defense industries with Saudi Arabia and Pakistan",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7071998",
-    "published_date": "2026-08-13T11:38:25+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "“Ministerial Media” monitors the vision of “Economic Cooperation and Development” regarding developments in scientific research in Egypt",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4336857",
-    "published_date": "2026-08-13T11:17:12+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Intensive consultations in Al-Ahly to resolve the left front crisis",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4336853",
-    "published_date": "2026-08-13T11:11:06+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Iran announces the thwarting of an “American-Israeli” plan and the dismantling of two cells in the southeast of the country",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4336835",
-    "published_date": "2026-08-13T10:33:25+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "“A serious threat.” Egypt condemns the targeting of a Yemeni commercial ship in the Red Sea",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4336827",
-    "published_date": "2026-08-13T10:28:40+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Sell Ukraine 10% of US Patriots and ‘we will destroy all the Russians’ ballistic missiles,’ Zelensky tells CNN",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/sell-ukraine-10-of-us-patriots-and-we-will-destroy-all-the-russians-ballistic-missiles-zelensky-tells-cnn/",
-    "published_date": "2026-08-13T09:14:15+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Trump keeps saying the US controls the Strait of Hormuz. Does it?",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/trump-keeps-saying-the-us-controls-the-strait-of-hormuz-does-it/",
-    "published_date": "2026-08-13T09:06:16+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Hamas announces its participation in the Palestinian elections within a broad national coalition",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7071574",
-    "published_date": "2026-08-12T23:09:32+00:00",
-    "category": "Military"
+    "url": "https://www.elbalad.news/7074108",
+    "published_date": "2026-08-15T23:00:00+00:00",
+    "category": "Energy"
   },
   {
     "title": "Petroleum Minister discusses speeding up phosphate fertilizer plant with Elsewedy Capital Holding",
@@ -413,11 +420,32 @@
     "category": "Energy"
   },
   {
-    "title": "Presidential directives to develop local manufacturing in the black sand and rare earth elements industries",
+    "title": "“Al-Sharqiya Enppi”: We sold Aktay Abdullah to Al-Ahly for 30 million pounds...and Mustafa Shakshak is superior to Mohamed Hani",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7070813",
-    "published_date": "2026-08-12T11:29:01+00:00",
-    "category": "Energy"
+    "url": "https://www.elbalad.news/7074511",
+    "published_date": "2026-08-15T23:16:08+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Egypt expands medical tourism strategy as revenues surpass $10m",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/egypt-expands-medical-tourism-strategy-as-revenues-surpass-10m/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-expands-medical-tourism-strategy-as-revenues-surpass-10m",
+    "published_date": "2026-08-15T17:14:47+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Egypt, Turkey Sign Cooperation Agreements in Alamein, Discuss $15B Trade Target",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/08/15/egypt-turkey-sign-cooperation-agreements-in-alamein-discuss-15b-trade-target/",
+    "published_date": "2026-08-15T16:19:44+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "FRA amends conditions for real estate developers converting into investment funds",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/fra-amends-conditions-for-real-estate-developers-converting-into-investment-funds/?utm_source=rss&utm_medium=rss&utm_campaign=fra-amends-conditions-for-real-estate-developers-converting-into-investment-funds",
+    "published_date": "2026-08-15T14:16:16+00:00",
+    "category": "Economy"
   },
   {
     "title": "“I needed every pound.” Ahmed Abdel Qader reveals his suffering with Al-Ahly",
@@ -532,171 +560,143 @@
     "category": "Economy"
   },
   {
-    "title": "Today's prices of vegetables and fruits in Matrouh: lemons are 70 pounds and watermelons are 100",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4337463",
-    "published_date": "2026-08-14T09:16:23+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Zucchini for 25 pounds.. Prices of vegetables and fruits in Sharqia markets today, Friday, August 14, 2026",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4337413",
-    "published_date": "2026-08-14T07:20:52+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "“They don’t ask for much.” 5 zodiac signs are content and happy with the simplest things",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4337273",
-    "published_date": "2026-08-13T23:16:04+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Assiut Supply released 307 records for bakeries and markets during intensive campaigns in the centres",
+    "title": "The price of the Saudi riyal today, Sunday, August 16, 2026, against the pound",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7072617",
-    "published_date": "2026-08-13T23:00:00+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Nominated by Sami Qamis... Behind the scenes of Al-Ahly’s decision to deal with the Mokawloon star",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073834",
-    "published_date": "2026-08-15T11:12:21+00:00",
+    "url": "https://www.elbalad.news/7074506",
+    "published_date": "2026-08-15T23:24:46+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Evacuating garbage collection sites in Shatta and Ras El-Bar",
+    "title": "Al-Ahly resolves Ashraf Dari’s position after the settlement session with his agent",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073830",
-    "published_date": "2026-08-15T11:12:10+00:00",
+    "url": "https://www.elbalad.news/7074515",
+    "published_date": "2026-08-15T23:24:03+00:00",
     "category": "Local Events"
   },
   {
-    "title": "The Ministry of Endowments organizes the International Islamic Thought Forum at Imam Hussein Mosque.. tomorrow",
+    "title": "The price of gold today, Sunday, August 16, 2026...and it is 21 karat now",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073837",
-    "published_date": "2026-08-15T11:11:18+00:00",
+    "url": "https://www.elbalad.news/7074516",
+    "published_date": "2026-08-15T23:23:19+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Deputy Governor of Alexandria witnesses the launch of the “Safety Step” initiative",
+    "title": "Zamalek reveals new details about the new shirt for the first team",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073831",
-    "published_date": "2026-08-15T11:08:28+00:00",
+    "url": "https://www.elbalad.news/7074512",
+    "published_date": "2026-08-15T23:19:22+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Find out their locations.. We publish the locations of the availability of vaccines and serums in Qena hospitals and units",
+    "title": "With a power of 141 horsepower.. Ford launches the Transit Custom 2027 utility vehicle",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073807",
-    "published_date": "2026-08-15T11:08:22+00:00",
+    "url": "https://www.elbalad.news/7074214",
+    "published_date": "2026-08-15T23:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "The manager of a famous sweet shop was arrested after an entire family was poisoned by Mawlid sweets in Samannoud",
+    "title": "The Gayer Andersson Museum celebrates International Youth Day",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073818",
-    "published_date": "2026-08-15T11:07:50+00:00",
+    "url": "https://www.elbalad.news/7074120",
+    "published_date": "2026-08-15T23:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Details: 13 people were injured in two collisions in Matrouh",
+    "title": "What happens to the body when you eat brown sugar?",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073820",
-    "published_date": "2026-08-15T11:04:39+00:00",
+    "url": "https://www.elbalad.news/7074085",
+    "published_date": "2026-08-15T23:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Field follow-ups to review the public store licensing system",
+    "title": "Severe penalties for electronic fraud on bank cards. Learn about them",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073810",
-    "published_date": "2026-08-15T11:04:39+00:00",
+    "url": "https://www.elbalad.news/7074503",
+    "published_date": "2026-08-15T22:54:19+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Details of Sherif Mounir and Hisham Abbas’ concert at the Citadel Festival",
+    "title": "Mohamed Ismail: Issam Bahij is the reason I joined the Lebanese star...and all Egyptian clubs include players from Enppi",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073824",
-    "published_date": "2026-08-15T11:04:06+00:00",
+    "url": "https://www.elbalad.news/7074488",
+    "published_date": "2026-08-15T22:47:48+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Your comprehensive guide to school supplies and bags 2026.. Prices and the most prominent discount locations",
+    "title": "Iyad Saleh reveals to “Sada El Balad” the behind-the-scenes preparations for Mahmoud’s second film... video",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073812",
-    "published_date": "2026-08-15T11:03:03+00:00",
+    "url": "https://www.elbalad.news/7074495",
+    "published_date": "2026-08-15T22:46:57+00:00",
     "category": "Local Events"
   },
   {
-    "title": "A German court sentences the husband of an Egyptian woman to prison on charges of unintentionally killing her",
+    "title": "Amr Al-Hadidi: Imam Ashour “Ashman” goes to Türkiye with Mohamed Salah... and Al-Ahly is at the hands of a demon",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073815",
-    "published_date": "2026-08-15T11:02:22+00:00",
+    "url": "https://www.elbalad.news/7074496",
+    "published_date": "2026-08-15T22:42:50+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Ahmed Abdel Qader: Shikabala is a legend",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073825",
-    "published_date": "2026-08-15T11:02:17+00:00",
+    "title": "New archaeological discovery at Tell Abu Saifi sheds light on ancient Horus Military Road",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/new-archaeological-discovery-at-tell-abu-saifi-sheds-light-on-ancient-horus-military-road/?utm_source=rss&utm_medium=rss&utm_campaign=new-archaeological-discovery-at-tell-abu-saifi-sheds-light-on-ancient-horus-military-road",
+    "published_date": "2026-08-15T17:27:06+00:00",
     "category": "Local Events"
   },
   {
-    "title": "The President of the National Council for Women praises Mrs. Intisar Al-Sisi’s support for humanitarian work... and stresses: Volunteering embodies the values ​​of solidarity and solidarity.",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073821",
-    "published_date": "2026-08-15T11:00:33+00:00",
+    "title": "Health Ministry performs over 3.3 million critical surgeries since July 2018",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/health-ministry-performs-over-3-3-million-critical-surgeries-since-july-2018/?utm_source=rss&utm_medium=rss&utm_campaign=health-ministry-performs-over-3-3-million-critical-surgeries-since-july-2018",
+    "published_date": "2026-08-15T17:07:51+00:00",
     "category": "Local Events"
   },
   {
-    "title": "The Governor of Qena is considering developing the craft zone in Naqada to support small industries",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073816",
-    "published_date": "2026-08-15T11:00:01+00:00",
+    "title": "‘They’ll go a second time, a third, a fourth’: The battlefield Wadi al-Mollak’s farm laborers can’t but return to",
+    "source": "Mada Masr",
+    "url": "https://www.madamasr.com/en/2026/08/15/feature/politics/theyll-go-a-second-time-a-third-a-fourth-the-battlefield-wadi-al-mollaks-farm-laborers-cant-but-return-to/",
+    "published_date": "2026-08-15T16:58:10+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Opening the door for applications for postgraduate studies at the Faculty of Islamic and Arabic Sciences for expatriates at Al-Azhar.. Details",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073792",
-    "published_date": "2026-08-15T11:00:00+00:00",
+    "title": "Non-bank financing for MSMEs surpasses EGP 100bn in May 2026: FRA",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/non-bank-financing-for-msmes-surpasses-egp-100bn-in-may-2026-fra/?utm_source=rss&utm_medium=rss&utm_campaign=non-bank-financing-for-msmes-surpasses-egp-100bn-in-may-2026-fra",
+    "published_date": "2026-08-15T14:31:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Imprisonment for 5 years and a fine of 30,000 pounds is a penalty for selling spoiled food according to the law",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7073600",
-    "published_date": "2026-08-15T11:00:00+00:00",
+    "title": "Egypt, Libya sign protocol to launch Industrial Integration Exhibition",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/08/15/egypt-libya-sign-protocol-to-launch-industrial-integration-exhibition/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-libya-sign-protocol-to-launch-industrial-integration-exhibition",
+    "published_date": "2026-08-15T14:22:30+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Today's vegetable prices in Matrouh.. Find out the prices of lemons, potatoes, and tomatoes",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4338121",
-    "published_date": "2026-08-15T10:35:21+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt’s Omar Assar qualifies for WTT Europe Smash Sweden 2026",
+    "title": "Google’s Android chief lays out his vision for how AI will change our smartphones",
     "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypts-omar-assar-qualifies-for-wtt-europe-smash-sweden-2026/",
-    "published_date": "2026-08-15T10:23:08+00:00",
+    "url": "https://www.egyptindependent.com/googles-android-chief-lays-out-his-vision-for-how-ai-will-change-our-smartphones/",
+    "published_date": "2026-08-15T12:57:25+00:00",
     "category": "Local Events"
   },
   {
-    "title": "Matrouh train schedules today, Saturday, August 15, 2026.. 6 trips between Cairo and Marsa Matrouh",
+    "title": "Channels broadcasting the match between Trabzon and Kasimpasa in the Turkish League... and the commentator and date",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4338104",
-    "published_date": "2026-08-15T10:02:46+00:00",
+    "url": "https://www.almasryalyoum.com/news/details/4338141",
+    "published_date": "2026-08-15T11:28:23+00:00",
     "category": "Local Events"
   },
   {
-    "title": "The price of barqi meat today, Saturday, August 15, 2026 in Matrouh",
+    "title": "The death toll from the “Al-Dawawis” road accident rose to 19 deaths... and the families: “Ibrahim” died while searching for a living.",
     "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4338100",
-    "published_date": "2026-08-15T09:58:32+00:00",
+    "url": "https://www.almasryalyoum.com/news/details/4338140",
+    "published_date": "2026-08-15T11:25:11+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "A fire broke out in one of the mountain valleys in Aswan. Two fire engines were dispatched to control it",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4338138",
+    "published_date": "2026-08-15T11:20:25+00:00",
     "category": "Local Events"
   }
 ]
