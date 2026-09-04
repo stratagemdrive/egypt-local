@@ -1,5 +1,12 @@
 [
   {
+    "title": "America announces that the European Union has officially joined the “Economic Pariah” operation against Iran",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095279",
+    "published_date": "2026-09-04T00:12:01+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "President Sisi sends delegates to offer condolences",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7094857",
@@ -133,13 +140,6 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Egypt Calls for Global Agreement to Tackle Growing Drought Threat",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/08/29/egypt-calls-for-global-agreement-to-tackle-growing-drought-threat/",
-    "published_date": "2026-08-29T15:15:06+00:00",
-    "category": "Diplomacy"
-  },
-  {
     "title": "The Governor of Beni Suef inspects the Ahlan Schools exhibition and directs the expansion of the establishment of permanent exhibitions of goods",
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7094853",
@@ -158,6 +158,20 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/upgraded-su-57-stealth-fighter-debuts-at-egypt-international-airshow-with-new-weaponry/",
     "published_date": "2026-09-03T13:46:54+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "With discounts of up to 35% on school supplies and food commodities.. Kafr El-Sheikh Governor opens the “Welcome Schools” exhibition",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4351878",
+    "published_date": "2026-09-03T12:55:37+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "The Tripoli oil depot in Libya was targeted by a march... and all sites were raised on alert",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4351869",
+    "published_date": "2026-09-03T12:36:33+00:00",
     "category": "Military"
   },
   {
@@ -266,18 +280,18 @@
     "category": "Military"
   },
   {
-    "title": "Khaled Al-Ghandour reveals Zamalek’s position on Bezerra’s complaint... and warns the player",
+    "title": "Yemen.. Hearing explosions in Hodeidah",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7092958",
-    "published_date": "2026-09-01T23:45:00+00:00",
-    "category": "Military"
+    "url": "https://www.elbalad.news/7095276",
+    "published_date": "2026-09-03T23:47:41+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Japan is using AI, drones and wolf robots to keep bears at bay",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/japan-is-using-ai-drones-and-wolf-robots-to-keep-bears-at-bay/",
-    "published_date": "2026-09-01T12:36:32+00:00",
-    "category": "Military"
+    "title": "ADNOC Restores 922,000 bbl/d Ruwais Refinery to Full Capacity",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/adnoc-restores-922000-bbl-d-ruwais-refinery-to-full-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=adnoc-restores-922000-bbl-d-ruwais-refinery-to-full-capacity",
+    "published_date": "2026-09-03T15:50:23+00:00",
+    "category": "Energy"
   },
   {
     "title": "Madbouly: The rise in oil and gas prices doubled the energy bill despite the decrease in imported quantities",
@@ -406,18 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "Madbouly, UAE Officials Review Fujairah-Alamein Project",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/madbouly-uae-officials-review-fujairah-alamein-project/?utm_source=rss&utm_medium=rss&utm_campaign=madbouly-uae-officials-review-fujairah-alamein-project",
-    "published_date": "2026-09-01T08:38:09+00:00",
-    "category": "Energy"
+    "title": "Foreign exchange rates at the Bank of Egypt today, Friday.. Latest update",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7094971",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Economy"
   },
   {
-    "title": "DNO to Enter Egypt with $396 Mn Acquisition of Capricorn Energy",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/dno-to-enter-egypt-with-396-mn-acquisition-of-capricorn-energy/?utm_source=rss&utm_medium=rss&utm_campaign=dno-to-enter-egypt-with-396-mn-acquisition-of-capricorn-energy",
-    "published_date": "2026-09-01T07:29:30+00:00",
-    "category": "Energy"
+    "title": "Amir Hisham: Al-Ahly seeks to resolve the Hani and Yasser file in the coming hours",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095277",
+    "published_date": "2026-09-03T23:55:15+00:00",
+    "category": "Economy"
   },
   {
     "title": "1000 pounds in one day.. A huge rise in the price of the 21-carat gold pound is now a surprise",
@@ -445,6 +459,13 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7094849",
     "published_date": "2026-09-03T14:40:12+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Three options before Tehran: American escalation and economic pressure",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/avideo/4351884",
+    "published_date": "2026-09-03T13:02:16+00:00",
     "category": "Economy"
   },
   {
@@ -539,25 +560,130 @@
     "category": "Economy"
   },
   {
-    "title": "Together for you...a community event in Faqus to support women and families",
+    "title": "Baligh Hamdi’s compositions on the anniversary of his passing at the opera... A Night in Love with the Waves by Sayed Darwish",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7091537",
-    "published_date": "2026-08-31T17:34:56+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/7095280",
+    "published_date": "2026-09-04T00:39:16+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Putin: The 11th East Economic Forum is a platform for open dialogue between the business community and government bodies",
+    "title": "7 steps to help you recover and improve your heart health",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7091576",
-    "published_date": "2026-08-31T17:34:23+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/7095241",
+    "published_date": "2026-09-04T00:30:00+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "On September 10, 2026 officially | An important announcement from the government to all citizens",
+    "title": "Mokoena refuses to reveal the Egyptian League offers... and surprises everyone with his choices for the Egyptian national team",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7091575",
-    "published_date": "2026-08-31T17:33:56+00:00",
-    "category": "Economy"
+    "url": "https://www.elbalad.news/7095261",
+    "published_date": "2026-09-04T00:17:28+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Prayer times in Aswan today, Friday 9/4/2026",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095247",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Zamalek sets $4 million to agree to sell Bezerra",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095243",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Academic: China’s assertion of Egypt’s water rights is the most notable gain",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095118",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "What does the Range Rover Electric offer and how much does it cost globally?",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095059",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "With the participation of the Metropolitan of Egypt... Pope Leo",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7094839",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "A supplication for those who find it difficult to make a living.. Follow it on Friday",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7094653",
+    "published_date": "2026-09-04T00:00:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Barcelona moves to protect its Egyptian jewel...a surprise in Hamza Abdel Karim’s contract",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095275",
+    "published_date": "2026-09-03T23:53:45+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Mohamed Barakat: Al-Ahly is starting to regain its level",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095257",
+    "published_date": "2026-09-03T23:46:09+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "America is investigating an air strike that targeted a wedding in Iran",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095271",
+    "published_date": "2026-09-03T23:40:21+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Before school... 7 tricks to make your child sleep early without suffocation",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095227",
+    "published_date": "2026-09-03T23:30:00+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Emam Ashour tries to convince Ahmed Fattouh to join Al-Ahly... and a surprise about the player’s response",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095255",
+    "published_date": "2026-09-03T23:26:35+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Magdy Abdel Ghani: Al-Ahly’s victory over Smouha is unacceptable.. It is still early for Amouta and Monsef",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095251",
+    "published_date": "2026-09-03T23:23:35+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "6 minutes saved him from death... Honoring the ambulance men after saving the child’s father, Muhammad Rajab",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7095253",
+    "published_date": "2026-09-03T23:21:05+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt, Saudi Arabia urge regional de-escalation to protect energy security and trade",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/09/03/egypt-saudi-arabia-urge-regional-de-escalation-to-protect-energy-security-and-trade/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-saudi-arabia-urge-regional-de-escalation-to-protect-energy-security-and-trade",
+    "published_date": "2026-09-03T16:43:07+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Tony Blair denies asking Palestinian Authority to remove “Palestine” from schoolbooks",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/09/03/tony-blair-denies-asking-palestinian-authority-to-remove-palestine-from-schoolbooks/?utm_source=rss&utm_medium=rss&utm_campaign=tony-blair-denies-asking-palestinian-authority-to-remove-palestine-from-schoolbooks",
+    "published_date": "2026-09-03T16:34:46+00:00",
+    "category": "Local Events"
   },
   {
     "title": "He robbed them while they were playing football.. A thief was arrested who stole 5 phones from inside a stadium in Giza",
@@ -571,132 +697,6 @@
     "source": "Sada El Balad",
     "url": "https://www.elbalad.news/7094863",
     "published_date": "2026-09-03T14:49:24+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "After Heba Magdy's recovery... these things increase the risk of cancer",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094860",
-    "published_date": "2026-09-03T14:48:12+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt is preserved by the word of God.. Al-Azhari sends a fiery message to the hostile media",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094859",
-    "published_date": "2026-09-03T14:46:32+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Lifting the penalty clause Barcelona moves to fortify Hamza Abdel Karim",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094858",
-    "published_date": "2026-09-03T14:45:37+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "The 15% increase has come into effect.. Will it be repeated on the old rent every September?",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094851",
-    "published_date": "2026-09-03T14:41:04+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Veterinary services: periodic and surprise campaigns to protect livestock from illegal practices",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094848",
-    "published_date": "2026-09-03T14:40:24+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nepal announces that the death toll from floods has risen to 1,252 people",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094850",
-    "published_date": "2026-09-03T14:37:25+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egyptian researchers receive training from NASA experts on space weather monitoring",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094845",
-    "published_date": "2026-09-03T14:34:35+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "CAF Champions League.. Date of Zamalek’s next match against AS Port Djibouti",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094838",
-    "published_date": "2026-09-03T14:34:29+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Satellites and artificial intelligence in the face of desertification...the most prominent desert research efforts",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7094842",
-    "published_date": "2026-09-03T14:33:52+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Nile River is matter of national security, Egypt retains right to defend water security: Sisi",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/nile-river-is-matter-of-national-security-egypt-retains-right-to-defend-water-security-sisi/",
-    "published_date": "2026-09-03T13:48:51+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egypt, Murdoch University Launch Mining Training Partnership",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/egypt-murdoch-university-launch-mining-training-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-murdoch-university-launch-mining-training-partnership",
-    "published_date": "2026-09-03T13:34:16+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "A young man was killed and another injured in a collision between a truck and a motorcycle on the international coastal road in Kafr El-Sheikh",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4351887",
-    "published_date": "2026-09-03T13:04:15+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Will September see any heatwaves?",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/will-september-see-any-heatwaves/",
-    "published_date": "2026-09-03T13:01:44+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "“Hydro, cocaine, and cigarettes wrapped in drugs.” Details of the arrest of Nada Al-Kamil and Abu Al-Maati",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/avideo/4351883",
-    "published_date": "2026-09-03T13:00:07+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Saudi Arabia’s security remains a red line for Egypt: Sisi",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/saudi-arabias-security-remains-a-red-line-for-egypt-sisi/",
-    "published_date": "2026-09-03T12:59:34+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Egyptian court halts trial of manual laborer who impersonated judge in housing scam",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egyptian-court-halts-trial-of-manual-laborer-who-impersonated-judge-in-housing-scam/",
-    "published_date": "2026-09-03T12:56:27+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Developments in the health condition of those injured in the Nuweiba bus overturn accident...and preparations to hand over 22 bodies to their families",
-    "source": "Al-Masry Al-Youm",
-    "url": "https://www.almasryalyoum.com/news/details/4351870",
-    "published_date": "2026-09-03T12:37:12+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "Spain’s PM says he received no advance warnings of Ceuta influx as he defends handling of crisis",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/spains-pm-says-he-received-no-advance-warnings-of-ceuta-influx-as-he-defends-handling-of-crisis/",
-    "published_date": "2026-09-03T12:35:35+00:00",
     "category": "Local Events"
   }
 ]
