@@ -1,5 +1,19 @@
 [
   {
+    "title": "Zelensky praises ‘real leaders’ in Europe as his relationship with Trump deteriorates",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/zelensky-praises-real-leaders-in-europe-as-his-relationship-with-trump-deteriorates/",
+    "published_date": "2026-10-18T12:35:11+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Egypt reaffirms support for Iraq’s unity, sovereignty",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypt-reaffirms-support-for-iraqs-unity-sovereignty/",
+    "published_date": "2026-10-18T09:29:03+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Egypt, Türkiye FMs call for renewed US-Iran talks to ease regional tensions",
     "source": "Daily News Egypt",
     "url": "https://www.dailynewsegypt.com/2026/10/17/egypt-turkiye-fms-call-for-renewed-us-iran-talks-to-ease-regional-tensions/",
@@ -126,6 +140,27 @@
     "category": "Diplomacy"
   },
   {
+    "title": "Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/pope-leo-leads-sunday-prayers-in-first-major-public-appearance-since-lung-cancer-surgery/",
+    "published_date": "2026-10-18T12:32:52+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Sisi proposes program to prepare candidates for Presidency",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/sisi-proposes-program-to-prepare-candidates-for-presidency/",
+    "published_date": "2026-10-18T09:49:05+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Egypt seeks African mining alliance to boost mineral value addition",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/egypt-seeks-african-mining-alliance-to-boost-mineral-value-addition/",
+    "published_date": "2026-10-18T09:32:04+00:00",
+    "category": "Military"
+  },
+  {
     "title": "Systems Limited invests $10m in Egypt, targets further growth in 2027",
     "source": "Daily News Egypt",
     "url": "https://www.dailynewsegypt.com/2026/10/17/systems-limited-invests-10m-in-egypt-targets-further-growth-in-2027/",
@@ -245,25 +280,46 @@
     "category": "Military"
   },
   {
-    "title": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/after-oil-increasingly-left-the-gulf-iran-is-trying-to-regain-its-stranglehold-on-shipping/",
-    "published_date": "2026-10-12T12:34:03+00:00",
-    "category": "Military"
+    "title": "China’s Solar Panel Exports Fall 6.4% YoY in September",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/chinas-solar-panel-exports-fall-6-4-yoy-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-solar-panel-exports-fall-6-4-yoy-in-september",
+    "published_date": "2026-10-18T13:57:49+00:00",
+    "category": "Energy"
   },
   {
-    "title": "‘Trump is dragging the party down’: GOP scrambles to stop steep midterm losses",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/trump-is-dragging-the-party-down-gop-scrambles-to-stop-steep-midterm-losses/",
-    "published_date": "2026-10-12T09:15:09+00:00",
-    "category": "Military"
+    "title": "Türkiye Signals Potential New Oil Discovery at Gabar Field",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/turkiye-signals-potential-new-oil-discovery-at-gabar-field/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-signals-potential-new-oil-discovery-at-gabar-field",
+    "published_date": "2026-10-18T08:59:26+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Pakistan confirms it has troops in Saudi as conflict with Yemen’s Houthi rebels escalates",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/pakistan-confirms-it-has-troops-in-saudi-as-conflict-with-yemens-houthi-rebels-escalates/",
-    "published_date": "2026-10-11T15:36:33+00:00",
-    "category": "Military"
+    "title": "Iran Exports LPG, Jet Fuel Despite US Naval Blockade",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/iran-exports-lpg-jet-fuel-despite-us-naval-blockade/?utm_source=rss&utm_medium=rss&utm_campaign=iran-exports-lpg-jet-fuel-despite-us-naval-blockade",
+    "published_date": "2026-10-18T08:00:19+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "OPEC Oil Output Rises in September",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/opec-oil-output-rises-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=opec-oil-output-rises-in-september",
+    "published_date": "2026-10-18T07:33:23+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "China’s Diesel Exports Hit 3-Year High as Global Supply Tightens",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/chinas-diesel-exports-hit-3-year-high-as-global-supply-tightens/?utm_source=rss&utm_medium=rss&utm_campaign=chinas-diesel-exports-hit-3-year-high-as-global-supply-tightens",
+    "published_date": "2026-10-18T07:06:11+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Rosatom, Teletech to Set Up 500 MWh Energy Storage Assembly in Egypt",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/rosatom-teletech-to-set-up-500-mwh-energy-storage-assembly-in-egypt/?utm_source=rss&utm_medium=rss&utm_campaign=rosatom-teletech-to-set-up-500-mwh-energy-storage-assembly-in-egypt",
+    "published_date": "2026-10-18T06:45:53+00:00",
+    "category": "Energy"
   },
   {
     "title": "Europe’s LNG Imports Drop 13% to 21.52 mmt in Q3 2026",
@@ -364,46 +420,18 @@
     "category": "Energy"
   },
   {
-    "title": "IEA: Record Tanker Freight Costs Push Asian Refiners’ Margins Into Negative",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/iea-record-tanker-freight-costs-push-asian-refiners-margins-into-negative/?utm_source=rss&utm_medium=rss&utm_campaign=iea-record-tanker-freight-costs-push-asian-refiners-margins-into-negative",
-    "published_date": "2026-10-15T07:55:44+00:00",
-    "category": "Energy"
+    "title": "Egypt Moves Closer to Economic Stability as Moody’s Upgrades Credit Rating",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/10/18/egypt-moves-closer-to-economic-stability-as-moodys-upgrades-credit-rating/",
+    "published_date": "2026-10-18T13:18:33+00:00",
+    "category": "Economy"
   },
   {
-    "title": "Trump: Taiwan to Buy Up to $80 Bn in LNG from Proposed Alaska Project",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/trump-taiwan-to-buy-up-to-80-bn-in-lng-from-proposed-alaska-project/?utm_source=rss&utm_medium=rss&utm_campaign=trump-taiwan-to-buy-up-to-80-bn-in-lng-from-proposed-alaska-project",
-    "published_date": "2026-10-15T07:27:51+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Petroleum, Investment Ministries Sign Protocol to Boost Investment",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/petroleum-investment-ministries-sign-protocol-to-boost-investment/?utm_source=rss&utm_medium=rss&utm_campaign=petroleum-investment-ministries-sign-protocol-to-boost-investment",
-    "published_date": "2026-10-15T07:10:31+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "EDF Pauses Edison Stake Sale as Qatar Gas Supply Uncertainty Persists",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/edf-pauses-edison-stake-sale-as-qatar-gas-supply-uncertainty-persists/?utm_source=rss&utm_medium=rss&utm_campaign=edf-pauses-edison-stake-sale-as-qatar-gas-supply-uncertainty-persists",
-    "published_date": "2026-10-15T07:00:53+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Khalda Achieves Operational Progress with Improved Drilling Capacity",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/khalda-achieves-operational-progress-with-improved-drilling-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=khalda-achieves-operational-progress-with-improved-drilling-capacity",
-    "published_date": "2026-10-14T16:34:26+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Eni Buys €100 Mn Treasury Shares in Early October",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/eni-buys-e100-mn-treasury-shares-in-early-october/?utm_source=rss&utm_medium=rss&utm_campaign=eni-buys-e100-mn-treasury-shares-in-early-october",
-    "published_date": "2026-10-14T16:13:27+00:00",
-    "category": "Energy"
+    "title": "Egypt Approves Six Fintech Firms to Expand Access to Financial Services",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/10/18/egypt-approves-six-fintech-firms-to-expand-access-to-financial-services/",
+    "published_date": "2026-10-18T12:46:54+00:00",
+    "category": "Economy"
   },
   {
     "title": "Egypt seeks to accelerate reduction in debt-service costs",
@@ -532,157 +560,143 @@
     "category": "Economy"
   },
   {
-    "title": "World Bank Group mobilises $6.7bn in private capital for Egypt since FY2022",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/11/world-bank-group-mobilises-6-7bn-in-private-capital-for-egypt-since-fy2022/",
-    "published_date": "2026-10-11T19:27:38+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Madbouly reviews 2026/2027 development plan targeting 5.4% growth",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/11/madbouly-reviews-2026-2027-development-plan-targeting-5-4-growth/",
-    "published_date": "2026-10-11T18:51:46+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "«دويدار»: خصم 500 ألف جنيه من ناصر منسي.. وقرار معتمد جمال «صحيح»",
+    "title": "محافظ المنيا يتفقد تطوير مدرسة سمالوط الثانوية بنين",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145897",
-    "published_date": "2026-10-18T00:45:00+00:00",
+    "url": "https://www.elbalad.news/7146552",
+    "published_date": "2026-10-18T14:12:21+00:00",
     "category": "Local Events"
   },
   {
-    "title": "نجم الزمالك السابق: الأهلاوية انتقدوا ناصر منسي.. وماذا عن إمام عاشور؟",
+    "title": "رسالة إنسانية من الجامعة العربية في ذكرى الإبادة الجماعية الإسرائيلية بحق الفلسطينيين",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145895",
-    "published_date": "2026-10-18T00:34:44+00:00",
+    "url": "https://www.elbalad.news/7146529",
+    "published_date": "2026-10-18T14:09:44+00:00",
     "category": "Local Events"
   },
   {
-    "title": "عمرو الحديدي: عودة أكرم توفيق للأهلي «قرار صحيح» .. و«الشيبي» يمثل 60% من قوة بيراميدز",
+    "title": "100 مليون صحة.. الكشف المبكر يحمي المواطنين من مضاعفات الأمراض المزمنة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145894",
-    "published_date": "2026-10-18T00:33:10+00:00",
+    "url": "https://www.elbalad.news/7146528",
+    "published_date": "2026-10-18T14:09:10+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تموين بني سويف تضبط 2.8 طن مخللات و1300 لتر لبن غير صالح للاستهلاك",
+    "title": "إصابة شخصين في حادث تحطم طائرة خفيفة شمال اليونان",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145861",
-    "published_date": "2026-10-18T00:30:00+00:00",
+    "url": "https://www.elbalad.news/7146560",
+    "published_date": "2026-10-18T14:08:13+00:00",
     "category": "Local Events"
   },
   {
-    "title": "«دويدار» بعد الانتقادات لـ ناصر منسي: «سفيان بن جديدة» وزنه زايد 10 كيلو على الأقل",
+    "title": "لماذا تفعلون هذا؟.. سيدة فرنسية تتوسل لمنع نهب متجرها وسط احتجاجات دامية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145891",
-    "published_date": "2026-10-18T00:09:58+00:00",
+    "url": "https://www.elbalad.news/7146515",
+    "published_date": "2026-10-18T14:07:59+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بعد لقاء كيتارا الأوغندي.. سهام صالح: فوز الأهلي لا يخفي الأخطاء.. وتغييرات «عموتة» تحتاج مراجعة",
+    "title": "بأمر وكيل تعليم بورسعيد.. مخالفات مدرسة \"علي سليمان\" الإبتدائية تلحق بالإعدادية في التحقيقات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145889",
-    "published_date": "2026-10-18T00:07:58+00:00",
+    "url": "https://www.elbalad.news/7146487",
+    "published_date": "2026-10-18T14:07:01+00:00",
     "category": "Local Events"
   },
   {
-    "title": "إعلامي سعودي يكشف عن تجربته في مصر: محبة حقيقية من ناس أصيلة",
+    "title": "رمضان عبدالمعز: اللي بيروجوا الشائعات ربنا هيجعل كيدهم في نحورهم",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145887",
-    "published_date": "2026-10-18T00:05:58+00:00",
+    "url": "https://www.elbalad.news/7146559",
+    "published_date": "2026-10-18T14:06:55+00:00",
     "category": "Local Events"
   },
   {
-    "title": "محمد صلاح يفتح النار على الزمالك بعد الفوز على الجيش الرواندي ويكشف مفاجأة بشأن معتمد جمال",
+    "title": "2 نوفمبر.. جلسة استئناف قضية عروس بورسعيد",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145890",
-    "published_date": "2026-10-18T00:03:57+00:00",
+    "url": "https://www.elbalad.news/7146496",
+    "published_date": "2026-10-18T14:06:33+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مجموعات من المُخربين.. سطو على محلات celine العالمية خلال احتجاجات باريس",
+    "title": "مدير بطولة الإسكندرية للشراع: مصر تهيمن على منافسات التأهل للأولمبياد عربيًا وإفريقيًا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145892",
-    "published_date": "2026-10-18T00:01:11+00:00",
+    "url": "https://www.elbalad.news/7146537",
+    "published_date": "2026-10-18T14:05:56+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مواقيت الصلاة في أسوان اليوم الأحد 18-10-2026",
+    "title": "الكويت تعزي إندونيسيا في ضحايا حرائق اندلعت بجاوة الشرقية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145865",
-    "published_date": "2026-10-18T00:00:00+00:00",
+    "url": "https://www.elbalad.news/7146558",
+    "published_date": "2026-10-18T14:05:32+00:00",
     "category": "Local Events"
   },
   {
-    "title": "عبارات تعزية أهل الميت.. كلمات مستحبة شرعًا لتخفيف آلام الحزن والفراق",
+    "title": "أخرج قواتك من المنطقة .. وزير الدفاع الإيراني يهدد ترامب ويعده بهذة المفاجئة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145741",
-    "published_date": "2026-10-18T00:00:00+00:00",
+    "url": "https://www.elbalad.news/7146553",
+    "published_date": "2026-10-18T14:04:38+00:00",
     "category": "Local Events"
   },
   {
-    "title": "عودة فورد رينجر MS-RT Champion Edition بلمسات رياضية.. صور",
+    "title": "الرقابة المالية تعتمد طرح 30% من أسهم بنك القاهرة بـ 24.25 مليار جنيه",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145524",
-    "published_date": "2026-10-18T00:00:00+00:00",
+    "url": "https://www.elbalad.news/7146520",
+    "published_date": "2026-10-18T14:03:30+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أقل سعر دولار في البنوك الآن",
+    "title": "قفز 700 جنيه خلال ساعات.. ارتفاع كبير يضرب سعر الجنيه الذهب وعيار 21 مفاجأة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145351",
-    "published_date": "2026-10-18T00:00:00+00:00",
+    "url": "https://www.elbalad.news/7146556",
+    "published_date": "2026-10-18T14:02:50+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ماذا يحدث لضغط دمك عند تناول الكوسة بانتظام؟",
+    "title": "انخفاض مؤشري البحرين العام والإسلامي في ختام تعاملات اليوم",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7142958",
-    "published_date": "2026-10-18T00:00:00+00:00",
+    "url": "https://www.elbalad.news/7146554",
+    "published_date": "2026-10-18T14:02:43+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الشاهد الصامت كشف الواقعة.. التحقيق مع المتهمة بسرقة هاتف محمول بالغربية",
+    "title": "فخر الكرة المصرية.. عمرو الدردير يحتفل بفوز الأندية الثلاثة خارج أرضها قارياً",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145764",
-    "published_date": "2026-10-17T23:58:13+00:00",
+    "url": "https://www.elbalad.news/7146547",
+    "published_date": "2026-10-18T14:02:13+00:00",
     "category": "Local Events"
   },
   {
-    "title": "وزير الخارجية الأمريكي: أشعر بالانزعاج إزاء الصور التي تظهر عنف المستوطنين في الضفة الغربية",
+    "title": "جدول ترتيب الدوري المصري .. بيراميدز في الصدارة والأهلي وصيفًا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145886",
-    "published_date": "2026-10-17T23:45:42+00:00",
+    "url": "https://www.elbalad.news/7146550",
+    "published_date": "2026-10-18T14:01:21+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بدعم من مهرجان الجونة.. نقابة المهن التمثيلية توقع مذكرة تفاهم مع «ميتا» لحذف الحسابات المُسيئة للفنانين",
+    "title": "الأهلي والزمالك يتعادلان سلبيًا في الشوط الأول بدوري الجمهورية للشباب",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145884",
-    "published_date": "2026-10-17T23:44:39+00:00",
+    "url": "https://www.elbalad.news/7146525",
+    "published_date": "2026-10-18T14:00:54+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بعد التعافي.. الأهلي يستقر على رحيل كريستو في يناير المقبل",
+    "title": "حصار أمريكي على إيران ومضيق هرمز.. من يملك السيطرة على شريان النفط العالمي؟",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145881",
-    "published_date": "2026-10-17T23:43:25+00:00",
+    "url": "https://www.elbalad.news/7146546",
+    "published_date": "2026-10-18T14:00:36+00:00",
     "category": "Local Events"
   },
   {
-    "title": "السفير الأمريكي في إسرائيل يطلب سجن «الإرهابيين» الذين اعتدوا على مصوّرة صحفية أمريكية",
+    "title": "أحمد ربيع يعلن إصابته بكسر في الأنف بعد مباراة الزمالك والجيش الرواندي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145883",
-    "published_date": "2026-10-17T23:41:17+00:00",
+    "url": "https://www.elbalad.news/7146548",
+    "published_date": "2026-10-18T14:00:07+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ألغام وصواريخ وتكاليف مُتصاعدة.. خبير إستراتيجي: لا واشنطن ولا طهران قادرة على حسم معركة مضيق هرمز |فيديو",
+    "title": "هيئة الدواء تسحب كافة التشغيلات لأشهر أدوية التخسيس.. وهذه عقوبة غش الأدوية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7145779",
-    "published_date": "2026-10-17T23:39:01+00:00",
+    "url": "https://www.elbalad.news/7146460",
+    "published_date": "2026-10-18T14:00:00+00:00",
     "category": "Local Events"
   }
 ]
