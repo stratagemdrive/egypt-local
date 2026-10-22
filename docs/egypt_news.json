@@ -1,5 +1,12 @@
 [
   {
+    "title": "FRA issues model agreement for brokerage firms, securities borrowers",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/21/fra-issues-model-agreement-for-brokerage-firms-securities-borrowers/",
+    "published_date": "2026-10-21T18:01:49+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "Egypt’s President Asks Developer to Provide Up to 200,000 Rental Homes",
     "source": "Egyptian Streets",
     "url": "https://egyptianstreets.com/2026/10/21/egypts-president-asks-developer-to-provide-up-to-200000-rental-homes/",
@@ -91,11 +98,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Egypt, Tunisia discuss project financing, strengthen regulatory cooperation: FRA chair",
+    "title": "Al-Sisi: Egypt’s proposed military effort is to defend Saudi Arabia, not attack Yemen",
     "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/14/egypt-tunisia-discuss-project-financing-strengthen-regulatory-cooperation-fra-chair/",
-    "published_date": "2026-10-14T19:02:28+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.dailynewsegypt.com/2026/10/21/al-sisi-egypts-proposed-military-effort-is-to-defend-saudi-arabia-not-attack-yemen/",
+    "published_date": "2026-10-21T18:43:18+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Suez Canal, Hapag-Lloyd discuss expanding transits as services gradually resume",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/21/suez-canal-hapag-lloyd-discuss-expanding-transits-as-services-gradually-resume/",
+    "published_date": "2026-10-21T17:49:02+00:00",
+    "category": "Military"
   },
   {
     "title": "Drone strike on a market in disputed African region of Abyei kills at least 153",
@@ -214,13 +228,6 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/two-cargo-ships-sunk-in-strait-of-hormuz-as-iran-ramps-up-attacks-in-run-up-to-midterms/",
     "published_date": "2026-10-15T08:57:14+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Egypt’s Al-Sisi rules out constitutional changes, warns against psychological warfare",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/14/egypts-al-sisi-rules-out-constitutional-changes-warns-against-psychological-warfare/",
-    "published_date": "2026-10-14T21:43:30+00:00",
     "category": "Military"
   },
   {
@@ -364,6 +371,27 @@
     "category": "Energy"
   },
   {
+    "title": "Egyptian chemical exports to China surge 678% to $287m in 8 months",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/21/egyptian-chemical-exports-to-china-surge-678-to-287m-in-8-months/",
+    "published_date": "2026-10-21T18:16:22+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "CBE trains COMESA central banks on climate risk stress testing",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/21/cbe-trains-comesa-central-banks-on-climate-risk-stress-testing/",
+    "published_date": "2026-10-21T17:51:11+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Egyptian government tackles steelmakers’ challenges, billet supply",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/21/egyptian-government-tackles-steelmakers-challenges-billet-supply/",
+    "published_date": "2026-10-21T17:36:21+00:00",
+    "category": "Economy"
+  },
+  {
     "title": "ZenHR opens sixth regional office in Cairo, plans EGP 150m investment in Egypt",
     "source": "Daily News Egypt",
     "url": "https://www.dailynewsegypt.com/2026/10/20/zenhr-opens-sixth-regional-office-in-cairo-plans-egp-150m-investment-in-egypt/",
@@ -483,164 +511,143 @@
     "category": "Economy"
   },
   {
-    "title": "Gold prices rise by EGP 95 in one week",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/17/gold-prices-rise-by-egp-95-in-one-week/",
-    "published_date": "2026-10-17T18:08:16+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "MIDYAN Developments invests EGP 12bn across three sectors over four years",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/17/midyan-developments-invests-egp-12bn-across-three-sectors-over-four-years/",
-    "published_date": "2026-10-17T17:57:00+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Here’s why Moody’s has upgraded Egypt’s credit rating",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/heres-why-moodys-has-upgraded-egypts-credit-rating/",
-    "published_date": "2026-10-17T11:31:52+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "مباريات لا تنسى بين بايرن ميونخ وأرسنال في دوري أبطال أوروبا",
+    "title": "نقيب الزراعيين: التغيرات المناخية أبرز تحديات مصر.. ونستورد 90% من استهلاكنا للمحاصيل الزيتية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150716",
-    "published_date": "2026-10-21T15:45:40+00:00",
+    "url": "https://www.elbalad.news/7151126",
+    "published_date": "2026-10-22T01:22:19+00:00",
     "category": "Local Events"
   },
   {
-    "title": "رويترز: تراجع مخزونات النفط والبنزين بأمريكا",
+    "title": "محمد عبدالجليل: الأهلي مطالب بالبحث عن بديل لعموتة وفرض عقوبات على اللاعبين",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150743",
-    "published_date": "2026-10-21T15:45:38+00:00",
+    "url": "https://www.elbalad.news/7151162",
+    "published_date": "2026-10-22T01:21:03+00:00",
     "category": "Local Events"
   },
   {
-    "title": "إيقاف كريستيانو رونالدو 30 يومًا وغرامة مالية بعد أزمة مع مدربه",
+    "title": "4.5 مليون فدان تعيد رسم خريطة الزراعة في مصر.. من الدلتا الجديدة إلى توشكى وسيناء لتعزيز الأمن الغذائي وخفض فاتورة الاستيراد",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150740",
-    "published_date": "2026-10-21T15:45:27+00:00",
+    "url": "https://www.elbalad.news/7151159",
+    "published_date": "2026-10-22T01:20:36+00:00",
     "category": "Local Events"
   },
   {
-    "title": "حزب الجيل: مذكرة السراج وتركيا لا تنشئ حقوقًا على حساب مصر.. وسيادتنا البحرية خط أحمر",
+    "title": "عمدة موسكو: إسقاط 56 مسيّرة كانت في طريقها إلى العاصمة الروسية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150734",
-    "published_date": "2026-10-21T15:45:25+00:00",
+    "url": "https://www.elbalad.news/7151161",
+    "published_date": "2026-10-22T01:17:03+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الرئيس السيسي يشارك في جلسة أمن الوطن والمواطن في إطار اليوم الثالث لأعمال منتدى مصر",
+    "title": "عبد الناصر محمد: طالبت شلاطة بإثبات قدراته أمام الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150736",
-    "published_date": "2026-10-21T15:44:51+00:00",
+    "url": "https://www.elbalad.news/7151160",
+    "published_date": "2026-10-22T01:16:43+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الدوري الممتاز| عموتة يعلن تشكيل الأهلي أمام القناة",
+    "title": "شبانة: الأهلي في حالة يُرثى لها مع عموتة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150737",
-    "published_date": "2026-10-21T15:42:55+00:00",
+    "url": "https://www.elbalad.news/7151164",
+    "published_date": "2026-10-22T01:13:28+00:00",
     "category": "Local Events"
   },
   {
-    "title": "عموتة يمنح مصطفى شوبير راحة 3 أيام للاحتفال بزفافه",
+    "title": "إعلام أوكراني: دوي 8 انفجارات على الأقل في كييف",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150717",
-    "published_date": "2026-10-21T15:41:33+00:00",
+    "url": "https://www.elbalad.news/7151163",
+    "published_date": "2026-10-22T01:13:13+00:00",
     "category": "Local Events"
   },
   {
-    "title": "برشلونة يخسر أولمو لمدة شهر بسب بالإصابة",
+    "title": "عقب تراجعه.. أعلى سعر للدولار اليوم الخميس في البنوك",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150722",
-    "published_date": "2026-10-21T15:41:08+00:00",
+    "url": "https://www.elbalad.news/7151040",
+    "published_date": "2026-10-22T01:04:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تأجيل محاكمة متهم بالانضمام لجماعة محظورة بمدينة نصر",
+    "title": "ترامب: منع إيران من امتلاك سلاح نووي أحد أعظم إنجازاتنا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150733",
-    "published_date": "2026-10-21T15:40:19+00:00",
+    "url": "https://www.elbalad.news/7151144",
+    "published_date": "2026-10-22T01:01:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "فيلم تسجيلي بمنتدى مصر 2026 يستعرض جهود مؤسسات الدولة لتعزيز الأمن والأمان وترسيخ الاستقرار",
+    "title": "أوبو تطلق Find X10 وFind X10 Pro Max عالميا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150724",
-    "published_date": "2026-10-21T15:38:23+00:00",
+    "url": "https://www.elbalad.news/7150830",
+    "published_date": "2026-10-22T01:01:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "القبض على سائق ميكروباص تعدى على راكب بالغربية",
+    "title": "أحمد حمودة: بيراميدز سيتوج بالدوري بفارق 15 نقطة عن الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150732",
-    "published_date": "2026-10-21T15:38:22+00:00",
+    "url": "https://www.elbalad.news/7151148",
+    "published_date": "2026-10-22T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تأجيل محاكمة 28 متهما بخلية المطرية الجديدة لـ 22 ديسمبر",
+    "title": "حكم الخروج من المنزل قبل الاغتسال من الجنابة.. هل يجوز شرعا؟",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150723",
-    "published_date": "2026-10-21T15:38:20+00:00",
+    "url": "https://www.elbalad.news/7151115",
+    "published_date": "2026-10-22T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مسئول روسي: التوصل لتفاهم حول توسيع التعاون الاقتصادي بين موسكو وواشنطن",
+    "title": "6 علامات تكشف إنك بتجاملي الناس على حساب راحتك",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150728",
-    "published_date": "2026-10-21T15:37:15+00:00",
+    "url": "https://www.elbalad.news/7150949",
+    "published_date": "2026-10-22T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "إعلامي: إصابة محمود جهاد ليست خطيرة ولا يعاني من أية إصابات مزمنة",
+    "title": "كاليفورنيا تنعش سوق السيارات الكهربائية ببرنامج دعم جديد.. 3500 دولار للمشتري",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150727",
-    "published_date": "2026-10-21T15:35:50+00:00",
+    "url": "https://www.elbalad.news/7150931",
+    "published_date": "2026-10-22T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "توقيع مذكرة تفاهم «بدر» للتعاون في الصناعات الدفاعية بين قطر وإندونيسيا وباكستان وتركيا",
+    "title": "إعلامي الوزراء: مؤسسات دولية تشيد بقدرة مصر على مواجهة تداعيات الأزمة الإقليمية على الأمن الغذائي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150725",
-    "published_date": "2026-10-21T15:34:33+00:00",
+    "url": "https://www.elbalad.news/7150787",
+    "published_date": "2026-10-22T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الجيش السوداني يسقط 3 مسيّرات للدعم السريع شرق وشمال الخرطوم",
+    "title": "شلاطة: أحلم بتمثيل منتخب مصر.. واللعب للأهلي أو الزمالك أمنيتي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150721",
-    "published_date": "2026-10-21T15:33:34+00:00",
+    "url": "https://www.elbalad.news/7151111",
+    "published_date": "2026-10-22T00:47:39+00:00",
     "category": "Local Events"
   },
   {
-    "title": "وزير خارجية أرمينيا: مشروع طريق ترامب للسلام والازدهار سيرفع التعاون الاقتصادي لمستوى غير مسبوق",
+    "title": "حطها حلوة.. هشام يكن يسخر من هدف ياسين مرعي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150713",
-    "published_date": "2026-10-21T15:32:06+00:00",
+    "url": "https://www.elbalad.news/7151157",
+    "published_date": "2026-10-22T00:42:41+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الرئيس الإندونيسي يتعهد بحماية المصالح الوطنية ومواجهة التحديات الراهنة",
+    "title": "محافظ أسوان يتفقد جاهزية مستشفى أبو سمبل لاستقبال زوار تعامد الشمس",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150720",
-    "published_date": "2026-10-21T15:30:58+00:00",
+    "url": "https://www.elbalad.news/7151099",
+    "published_date": "2026-10-22T00:40:44+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تأجيل محاكمة 8 متهمين في قضية خلية عين شمس",
+    "title": "تطورات الحرب على إيران.. واشنطن تؤجل الهجمات حتى انتخابات التجديد النصفي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150718",
-    "published_date": "2026-10-21T15:30:09+00:00",
+    "url": "https://www.elbalad.news/7151155",
+    "published_date": "2026-10-22T00:38:18+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تأجيل محاكمة 68 متهما في قضية خلية قصر النيل",
+    "title": "فرج عامر يهاجم عموتة بعد التعادل أمام القناة: الأهلي أكبر من التجارب",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7150714",
-    "published_date": "2026-10-21T15:29:39+00:00",
+    "url": "https://www.elbalad.news/7151151",
+    "published_date": "2026-10-22T00:31:14+00:00",
     "category": "Local Events"
   }
 ]
