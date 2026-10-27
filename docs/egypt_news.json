@@ -1,5 +1,12 @@
 [
   {
+    "title": "Al-Sisi, Guterres discuss Gaza, UN reform and regional de-escalation",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/26/al-sisi-guterres-discuss-gaza-un-reform-and-regional-de-escalation/",
+    "published_date": "2026-10-26T17:42:00+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "UN Chief Calls for Regional De-escalation During Cairo Visit",
     "source": "Egyptian Streets",
     "url": "https://egyptianstreets.com/2026/10/26/un-chief-calls-for-regional-de-escalation-during-cairo-visit-holds-talks-with-arab-league/",
@@ -77,11 +84,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Intro Holding signs partnership and management agreement with Mona El Helw, who joins M squared as Managing Partner and CEO",
+    "title": "Saudi, Turkish, and Pakistani officials hold talks with Iran to de-escalate regional crisis",
     "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/19/intro-holding-signs-partnership-and-management-agreement-with-mona-el-helw-who-joins-m-squared-as-managing-partner-and-ceo/",
-    "published_date": "2026-10-19T17:50:25+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.dailynewsegypt.com/2026/10/26/saudi-turkish-and-pakistani-officials-hold-talks-with-iran-to-de-escalate-regional-crisis/",
+    "published_date": "2026-10-26T17:50:14+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "AOI, Military Production Ministry discuss industrial integration, local manufacturing and tech transfer",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/26/aoi-military-production-ministry-discuss-industrial-integration-local-manufacturing-and-tech-transfer/",
+    "published_date": "2026-10-26T16:32:52+00:00",
+    "category": "Military"
   },
   {
     "title": "Saudi Oil Exports Exceed 5.5 Mmbbl/d in October Despite Attack",
@@ -207,20 +221,6 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/two-killed-and-eight-injured-in-attack-targeting-king-fahd-airport-in-saudi-arabia/",
     "published_date": "2026-10-22T10:08:09+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Al-Sisi: Egypt’s proposed military effort is to defend Saudi Arabia, not attack Yemen",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/21/al-sisi-egypts-proposed-military-effort-is-to-defend-saudi-arabia-not-attack-yemen/",
-    "published_date": "2026-10-21T18:43:18+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Suez Canal, Hapag-Lloyd discuss expanding transits as services gradually resume",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/21/suez-canal-hapag-lloyd-discuss-expanding-transits-as-services-gradually-resume/",
-    "published_date": "2026-10-21T17:49:02+00:00",
     "category": "Military"
   },
   {
@@ -364,6 +364,13 @@
     "category": "Energy"
   },
   {
+    "title": "CBE, EIB discuss future cooperation, sustainable finance",
+    "source": "Daily News Egypt",
+    "url": "https://www.dailynewsegypt.com/2026/10/26/cbe-eib-discuss-future-cooperation-sustainable-finance/",
+    "published_date": "2026-10-26T17:22:23+00:00",
+    "category": "Economy"
+  },
+  {
     "title": "Egypt Plans to Raise Minimum Wage to EGP 15,000 by 2030",
     "source": "Egyptian Streets",
     "url": "https://egyptianstreets.com/2026/10/26/egypt-plans-to-raise-minimum-wage-to-egp-15000-by-2030/",
@@ -469,143 +476,143 @@
     "category": "Economy"
   },
   {
-    "title": "رئيس المخابرات العامة يلتقي نائب القائد العام للجيش الليبي في القاهرة",
+    "title": "ميدو عن أحمد فتوح: لازم يمشي من الزمالك حتى لو هيروح  الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157061",
-    "published_date": "2026-10-26T17:04:09+00:00",
+    "url": "https://www.elbalad.news/7157438",
+    "published_date": "2026-10-27T01:54:50+00:00",
     "category": "Local Events"
   },
   {
-    "title": "طرابزون  يتأخر بهدفين أمام رايز سبور في الشوط الأول بالدوري التركي",
+    "title": "سمير كمونة: الأهلي لن يتحمل هذا الأداء كثيرًا.. وعموتة يحتاج إلى تصحيح أخطائه",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157055",
-    "published_date": "2026-10-26T17:03:39+00:00",
+    "url": "https://www.elbalad.news/7157435",
+    "published_date": "2026-10-27T01:46:27+00:00",
     "category": "Local Events"
   },
   {
-    "title": "رئيس البرلمان العربي يدين الهجوم الإرهابي على كنيسة بمحافظة الكرك الأردنية",
+    "title": "رغم مواقف مامداني.. شرطة نيويورك تسعى لإبرام صفقة مع شركة استخبارات إسرائيلية بـ 750 ألف دولار",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157060",
-    "published_date": "2026-10-26T17:03:38+00:00",
+    "url": "https://www.elbalad.news/7157436",
+    "published_date": "2026-10-27T01:44:20+00:00",
     "category": "Local Events"
   },
   {
-    "title": "نائب يثمن بموافقة البرلمان على تفويض الرئيس السيسي لدعم السعودية: موقف يعكس وحدة المصير العربي",
+    "title": "عيب توصلوا للمرحلة دي.. شبانة يهاجم إدارة الزمالك بعد 10 هزائم أمام الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157051",
-    "published_date": "2026-10-26T17:03:16+00:00",
+    "url": "https://www.elbalad.news/7157434",
+    "published_date": "2026-10-27T01:34:50+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بعد 3 أشهر من الهبوط.. الذهب يفاجئ الجميع ويقفز فوق 4000 دولار",
+    "title": "عمرو الحديدي: محمد عبدالله يستطيع اللعب على حساب زيزو.. وأين محلل أداء الأهلي؟",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157057",
-    "published_date": "2026-10-26T17:01:37+00:00",
+    "url": "https://www.elbalad.news/7157432",
+    "published_date": "2026-10-27T01:23:01+00:00",
     "category": "Local Events"
   },
   {
-    "title": "رئيسة المجلس القومي للمرأة تهنئ الدكتورة رانيا يحيى باختيارها لعضوية الأكاديمية الإيطالية للآثار",
+    "title": "داليا مصطفى من داخل المسجد النبوي: جيت صدفة.. ادعولي بقى أحج",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157058",
-    "published_date": "2026-10-26T17:01:03+00:00",
+    "url": "https://www.elbalad.news/7157430",
+    "published_date": "2026-10-27T01:18:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الشخص النرجسي مش دايمًا مكروه.. 6 صفات بتخلي الناس تحبه",
+    "title": "التحالف: اعتراض وتدمير 3 صواريخ باليستية أطلقها الحوثيون باتجاه السعودية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7156944",
-    "published_date": "2026-10-26T17:00:00+00:00",
+    "url": "https://www.elbalad.news/7157431",
+    "published_date": "2026-10-27T01:16:25+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مواصفات أوبل جراند لاند 2027 الجديدة",
+    "title": "وليد عبداللطيف: دوري أبطال أفريقيا أولوية الزمالك وعموتة سبب أزمة الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7156908",
-    "published_date": "2026-10-26T17:00:00+00:00",
+    "url": "https://www.elbalad.news/7157429",
+    "published_date": "2026-10-27T01:09:06+00:00",
     "category": "Local Events"
   },
   {
-    "title": "فان دايك: ما قدمه محمد صلاح مع ليفربول استثنائي ومن الصعب تكراره",
+    "title": "للقضاء على السحابة السوداء.. جمع 206 آلاف طن قش أرز بمراكز ومدن الشرقية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157053",
-    "published_date": "2026-10-26T16:59:08+00:00",
+    "url": "https://www.elbalad.news/7157427",
+    "published_date": "2026-10-27T01:01:56+00:00",
     "category": "Local Events"
   },
   {
-    "title": "النوم في الجو.. دراسة: 75% من طياري أوروبا ينامون أثناء الطيران",
+    "title": "أعمال قبل الفجر بساعة.. 8 عبادات يحبها الله ويغفل عنها كثيرون",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157052",
-    "published_date": "2026-10-26T16:58:05+00:00",
+    "url": "https://www.elbalad.news/7157426",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "البنك الأوروبي للاستثمار يوقع اتفاقية بـ5.37 مليون دولار لدعم القطاع الخاص المصري",
+    "title": "محمد أضا: لا صحة لتجدد إصابة ياسر إبراهيم.. وهذا موقف اللاعب من التجديد للأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157054",
-    "published_date": "2026-10-26T16:57:53+00:00",
+    "url": "https://www.elbalad.news/7157407",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "التعليم: خطة للقضاء على الفترات المسائية للمرحلة الابتدائية في 2027",
+    "title": "خالد الغندور يكشف أزمة جديدة تخص كريم الدبيس في الأهلي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157041",
-    "published_date": "2026-10-26T16:56:02+00:00",
+    "url": "https://www.elbalad.news/7157389",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مرافعة الدفاع تؤجل محاكمة 57 متهما بخلية اللجان النوعية لجماعة الإخوان لـ 16 ديسمبر",
+    "title": "بالكاجوال.. ياسمين صبري تخطف الأنظار في العرض الخاص لفيلم «نصيب» بحضور النجوم",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157039",
-    "published_date": "2026-10-26T16:55:27+00:00",
+    "url": "https://www.elbalad.news/7157370",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "برلماني: موافقة أغلبية البرلمان على تفويض الرئيس السيسي بإرسال قوات لدعم الأشقاء بالسعودية تعكس حرص مصر على حماية الأمن العربي",
+    "title": "آخر تحديث.. سعر الدولار أمام الجينه اليوم الثلاثاء 27 أكتوبر 2026",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157035",
-    "published_date": "2026-10-26T16:55:12+00:00",
+    "url": "https://www.elbalad.news/7157345",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "موعد بدء حفل الكرة الذهبية 2026 والقنوات الناقلة",
+    "title": "وزير التعليم العالي السابق: منتدى مصر كان رحلة شيقة وبانورما لإنجازات الدولة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157050",
-    "published_date": "2026-10-26T16:53:40+00:00",
+    "url": "https://www.elbalad.news/7157291",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "قبل مباراة طرابزون وريزه.. مشجع تركي يفاجئ محمد صلاح بهدية مثيرة",
+    "title": "سعر الذهب عيار 21 يسجل رقما جديدا اليوم الثلاثاء",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157030",
-    "published_date": "2026-10-26T16:51:54+00:00",
+    "url": "https://www.elbalad.news/7157256",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "فيلم Whalefall يحقق 21 مليون دولار في شباك التذاكر العالمي",
+    "title": "«شبورة وأمطار رعدية قد تصل لحد السيول».. الأرصاد تعلن تفاصيل طقس الثلاثاء",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157048",
-    "published_date": "2026-10-26T16:51:52+00:00",
+    "url": "https://www.elbalad.news/7157168",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ما حكم الشراء بالتقسيط مع زيادة ثمن السلعة بحسب مدة سداد الأقساط؟.. الإفتاء تجيب",
+    "title": "سعر ومواصفات ديبال S09 الكهربائية الجديدة في مصر",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157032",
-    "published_date": "2026-10-26T16:50:00+00:00",
+    "url": "https://www.elbalad.news/7156938",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "طرابزون التركي يتآخر أمام ريزه سبور بهدفين",
+    "title": "طلب مناقشة عامة بالشيوخ لاستعراض خطة الحكومة لمواجهة تحديات الأمن الغذائي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157046",
-    "published_date": "2026-10-26T16:49:52+00:00",
+    "url": "https://www.elbalad.news/7156603",
+    "published_date": "2026-10-27T01:00:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "الكشف عن مقبرة منقوشة لشخص يُدعى «وني» يحمل ألقابًا رفيعة بـ سقارة",
+    "title": "أحمد الطيب: دوري أبطال أفريقيا أصعب من الدوري المصري.. ويحزنني التفريط في معتمد جمال",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7157036",
-    "published_date": "2026-10-26T16:48:19+00:00",
+    "url": "https://www.elbalad.news/7157423",
+    "published_date": "2026-10-27T00:56:33+00:00",
     "category": "Local Events"
   }
 ]
