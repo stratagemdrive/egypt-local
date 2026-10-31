@@ -1,5 +1,12 @@
 [
   {
+    "title": "Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/oleshky-evacuees-return-to-ukraine-under-melania-trump-brokered-ceasefire/",
+    "published_date": "2026-10-31T13:17:30+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "AI hardware can be hacked so chatbots provide dangerous answers, research shows",
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/ai-hardware-can-be-hacked-so-chatbots-provide-dangerous-answers-research-shows/",
@@ -63,11 +70,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Pakistan Embassy in Egypt celebrates 500 years of Mughal heritage, cuisine",
-    "source": "Daily News Egypt",
-    "url": "https://www.dailynewsegypt.com/2026/10/24/pakistan-embassy-in-egypt-celebrates-500-years-of-mughal-heritage-cuisine/",
-    "published_date": "2026-10-24T15:21:10+00:00",
-    "category": "Diplomacy"
+    "title": "Zelensky welcomes sale of crucial US Patriot missiles but warns delivery could take years",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/zelensky-welcomes-sale-of-crucial-us-patriot-missiles-but-warns-delivery-could-take-years/",
+    "published_date": "2026-10-31T13:36:35+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Israel continues siege of West Bank for 8th day",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/israel-continues-siege-of-west-bank-for-8th-day/",
+    "published_date": "2026-10-31T10:27:26+00:00",
+    "category": "Military"
   },
   {
     "title": "Israel’s election will inevitably impact Gaza for Palestinians who have no vote",
@@ -193,20 +207,6 @@
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/the-iran-wars-toxic-impact-on-one-of-the-planets-most-unique-seas/",
     "published_date": "2026-10-25T13:52:15+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/macron-says-paris-suburb-shooting-that-killed-one-person-was-terrorist-and-racist-act/",
-    "published_date": "2026-10-25T13:12:21+00:00",
-    "category": "Military"
-  },
-  {
-    "title": "Egypt Condemns Deadly Church Attack in Jordan",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/10/24/egypt-condemns-deadly-church-attack-in-jordan/",
-    "published_date": "2026-10-24T12:35:41+00:00",
     "category": "Military"
   },
   {
@@ -350,6 +350,13 @@
     "category": "Energy"
   },
   {
+    "title": "Historic La Viennoise Building Reopens in Downtown Cairo",
+    "source": "Egyptian Streets",
+    "url": "https://egyptianstreets.com/2026/10/31/historic-la-viennoise-building-reopens-in-downtown-cairo/",
+    "published_date": "2026-10-31T15:09:45+00:00",
+    "category": "Economy"
+  },
+  {
     "title": "Why the CBE raised interest rates by 1% amid currency pressures",
     "source": "Egypt Independent",
     "url": "https://www.egyptindependent.com/why-the-cbe-raised-interest-rates-by-1-amid-currency-pressures/",
@@ -483,150 +490,143 @@
     "category": "Economy"
   },
   {
-    "title": "Egypt Ranks Second in Global Sugar Byproduct Exports",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/10/25/egypt-ranks-second-in-global-sugar-byproduct-exports/",
-    "published_date": "2026-10-25T14:44:28+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "هزيمة جديدة لـ ترامب .. ماذا فعلت القاضية الفيدرالية ترينا طومسون؟",
+    "title": "بسبب حالة صحية طارئة.. هبوط اضطراري لطائرة مصرية في مطار الكفرة بليبيا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162152",
-    "published_date": "2026-10-31T02:00:28+00:00",
+    "url": "https://www.elbalad.news/7162824",
+    "published_date": "2026-10-31T15:55:07+00:00",
     "category": "Local Events"
   },
   {
-    "title": "غياب فرض السيطرة.. حسام غالي ينتقد تصريحات وائل جمعة بعد فوز الأهلي على مودرن سبورت",
+    "title": "عمر الساعي يقترب من الظهور مع منتخب مصر.. ومصدر يكشف موقف حسام حسن قبل مواجهتي مالاوي| خاص",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162129",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162830",
+    "published_date": "2026-10-31T15:52:35+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مدرب بيراميدز يتحدى الأهلي والزمالك: هدفنا التتويج بالدوري هذه المرة",
+    "title": "جهاد جريشة: الإسماعيلي تعرض لظلم تحكيمي أمام بروكسي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162118",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162832",
+    "published_date": "2026-10-31T15:52:26+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أندرو محسن: منى زكي تستحق التكريم.. و«الست» من أفضل أفلامها",
+    "title": "سعر الدرهم الإماراتي والريال السعودي أمام الجنيه اليوم السبت 31 أكتوبر 2026",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162108",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162825",
+    "published_date": "2026-10-31T15:48:10+00:00",
     "category": "Local Events"
   },
   {
-    "title": "دعاء الفجر.. أفضل الأدعية المستجابة للرزق والفرج وطمأنينة النفس",
+    "title": "ابن محمد الحلو يطلب الدعاء لوالده بعد نقله إلى العناية المركزة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162085",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162827",
+    "published_date": "2026-10-31T15:47:29+00:00",
     "category": "Local Events"
   },
   {
-    "title": "لماذا اتجه المصريون لشراء سبائك وجنيهات الذهب بدلًا من المشغولات.. مستقبل أسعار المعدن الأصفر.. خبير يوضح أسباب التحول في سلوك المستهلكين",
+    "title": "رئيسا جامعتي بنها ووهان الصينية يفتتحان كلية بنها ووهان للدراسات العليا بالعبور",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7161982",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162796",
+    "published_date": "2026-10-31T15:46:36+00:00",
     "category": "Local Events"
   },
   {
-    "title": "دون تغيير.. سعر الذهب في الصاغة الآن",
+    "title": "الهلال الأحمر: إدخال أكثر من مليون طن من المساعدات الإنسانية والإغاثية إلى قطاع غزة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7161695",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162826",
+    "published_date": "2026-10-31T15:45:46+00:00",
     "category": "Local Events"
   },
   {
-    "title": "وزير الصحة يهنئ هيئة الدواء لفوزها بـ7 مقاعد في اللجان الفنية لوكالة الأدوية الأفريقية",
+    "title": "اتحادات الطلاب في باريس تدعو لإغلاق المدارس والجامعات مجددًا.. الثلاثاء",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7161361",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162818",
+    "published_date": "2026-10-31T15:41:07+00:00",
     "category": "Local Events"
   },
   {
-    "title": "طريقة عمل بان كيك بخطوات بسيطة ومثالية",
+    "title": "بيطرى أسوان يطلق حملة مجانية لتحصين الكلاب ضد مرض السعار بدءاً من 1 نوفمبر",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7159306",
-    "published_date": "2026-10-31T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7162697",
+    "published_date": "2026-10-31T15:39:41+00:00",
     "category": "Local Events"
   },
   {
-    "title": "سفير بولندا لدى رومانيا يستقيل من منصبه احتجاجاً على أزمة المحكمة الدستورية",
+    "title": "المجلس القومي للمرأة ينظم احتفالية حول صورة المرأة في سينما ودراما حرب أكتوبر",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162150",
-    "published_date": "2026-10-31T01:39:24+00:00",
+    "url": "https://www.elbalad.news/7162797",
+    "published_date": "2026-10-31T15:39:13+00:00",
     "category": "Local Events"
   },
   {
-    "title": "سائق مخمور يدهس أطفالاً خلال فعالية الهالوين في نيويورك",
+    "title": "وزير الإنتاج الحربي يتابع سير العمل في هليوبوليس للصناعات الكيماوية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162148",
-    "published_date": "2026-10-31T01:34:29+00:00",
+    "url": "https://www.elbalad.news/7162807",
+    "published_date": "2026-10-31T15:38:32+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بديل عموتة في الأهلي.. شوبير يفجر مفاجأة بشأن 4 أسماء رياضية شهيرة",
+    "title": "محافظ أسوان: ضبط 17 طناً و700 لتر سولار وسلاح نارى و7 سيارات مخالفة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162133",
-    "published_date": "2026-10-31T01:30:00+00:00",
+    "url": "https://www.elbalad.news/7162703",
+    "published_date": "2026-10-31T15:37:07+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أساطير التسعينيات يُشعلون ليلة اخترنا لك الإستثنائية بمهرجان الفسطاط .. صور",
+    "title": "مصدر لـ\"صدى البلد\": غرق معبد كومير بمياه الصرف الصحي شائعة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162147",
-    "published_date": "2026-10-31T01:23:32+00:00",
+    "url": "https://www.elbalad.news/7162816",
+    "published_date": "2026-10-31T15:35:37+00:00",
     "category": "Local Events"
   },
   {
-    "title": "قوات التحالف: اعتراض وتدمير طائرة مسيّرة بالمنطقة الجنوبية بالسعودية",
+    "title": "يوم الوفاء.. احتفالية بجامعة الأزهر لتكريم أمهات وزوجات شهداء الشرطة والجيش.. صور",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162146",
-    "published_date": "2026-10-31T01:22:08+00:00",
+    "url": "https://www.elbalad.news/7162814",
+    "published_date": "2026-10-31T15:35:33+00:00",
     "category": "Local Events"
   },
   {
-    "title": "رامي صبري يكشف كواليس رحيل محمد عطية عن فاركو: ضرب لاعبًا على وجهه",
+    "title": "ميا الوحش يختتم عروض السجادة الخضراء بمهرجان الشارقة السينمائي للأطفال والشباب",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162115",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162792",
+    "published_date": "2026-10-31T15:33:44+00:00",
     "category": "Local Events"
   },
   {
-    "title": "نواب: تطوير المنظومة الصحية لابد أن ينعكس على جودة الخدمة.. يجب الاهتمام بالصحة النفسية وعلاج الإدمان .. والرقابة الفعالة مطلوبة لزيادة الكفاءة",
+    "title": "أطباء المنيا الجامعي ينقذون طفلة من اختناق حاد بسبب شوكة سمكة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162102",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162779",
+    "published_date": "2026-10-31T15:32:41+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ضياء رشوان يهنئ الطفلة ميار \"وزيرة إعلام المستقبل\".. ويدعوها للقائه بمكتبه",
+    "title": "فيديوهات وصور على فلاشة.. تفاصيل أحراز البلوجر روكي أحمد بالتجمع",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162082",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162800",
+    "published_date": "2026-10-31T15:32:20+00:00",
     "category": "Local Events"
   },
   {
-    "title": "هل اقتربت الضربة الأمريكية لإيران؟.. سيناريوهات التصعيد وتداعيات المواجهة",
+    "title": "القبض على المتهم بسرقة هاتف طالب على الطريق الدائرى",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7162053",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162813",
+    "published_date": "2026-10-31T15:31:31+00:00",
     "category": "Local Events"
   },
   {
-    "title": "حكم الصلاة على النبي بعد الأذان.. دار الإفتاء تجيب",
+    "title": "أسعار الذهب في الإمارات اليوم السبت 31 أكتوبر 2026",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7161848",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162808",
+    "published_date": "2026-10-31T15:31:08+00:00",
     "category": "Local Events"
   },
   {
-    "title": "كل ما تريد معرفته عن لامبورجيني أوروس 2026 الرياضية",
+    "title": "أسعار الذهب في الإمارات اليوم السبت 31 أكتوبر 2026",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7161767",
-    "published_date": "2026-10-31T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7162809",
+    "published_date": "2026-10-31T15:30:49+00:00",
     "category": "Local Events"
   }
 ]
