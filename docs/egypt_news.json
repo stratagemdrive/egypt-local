@@ -56,32 +56,18 @@
     "category": "Diplomacy"
   },
   {
-    "title": "Foreign Workers in Egypt Decline by 7.2 Percent in 2025",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/11/01/foreign-workers-in-egypt-decline-by-7-2-percent-in-2025/",
-    "published_date": "2026-11-01T14:26:27+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Egypt Begins Free Rabies Vaccination Campaign for Stray Dogs Nationwide",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/11/01/egypt-begins-free-rabies-vaccination-campaign-for-stray-dogs-nationwide/",
-    "published_date": "2026-11-01T13:50:03+00:00",
-    "category": "Diplomacy"
-  },
-  {
-    "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
+    "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
     "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/reunited-after-1711-days-oleshky-evacuees-return-to-ukraine-under-melania-trump-brokered-ceasefire/",
-    "published_date": "2026-11-01T13:30:22+00:00",
-    "category": "Diplomacy"
+    "url": "https://www.egyptindependent.com/building-owned-by-saudi-oil-giant-damaged-in-missile-attack-on-riyadhs-financial-district/",
+    "published_date": "2026-11-08T13:17:40+00:00",
+    "category": "Military"
   },
   {
-    "title": "Nabil Kouki Returns to Al Masry After Ahmed Samy Exit",
-    "source": "KingFut",
-    "url": "https://www.kingfut.com/2026/11/01/nabil-kouki-returns-to-al-masry-after-ahmed-samy-exit/",
-    "published_date": "2026-11-01T10:49:31+00:00",
-    "category": "Diplomacy"
+    "title": "Palestinian Civil Defense receives 1,500 distress calls from Gaza Strip amid heavy rains",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/palestinian-civil-defense-receives-1500-distress-calls-from-gaza-strip-amid-heavy-rains/",
+    "published_date": "2026-11-08T11:50:30+00:00",
+    "category": "Military"
   },
   {
     "title": "SAIB Bank delivers 50 modern fishing boats to small-scale fishermen in Kafr El-Sheikh",
@@ -210,18 +196,53 @@
     "category": "Military"
   },
   {
-    "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/fake-warnings-of-nuclear-attack-posted-on-hacked-russian-and-ukrainian-emergency-apps/",
-    "published_date": "2026-11-02T13:06:18+00:00",
-    "category": "Military"
+    "title": "Iran Plans to Build 110 Bcm Natural Gas Pipeline with Russia",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/iran-plans-to-build-110-bcm-natural-gas-pipeline-with-russia/?utm_source=rss&utm_medium=rss&utm_campaign=iran-plans-to-build-110-bcm-natural-gas-pipeline-with-russia",
+    "published_date": "2026-11-08T14:30:00+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Democratic leaders enter the midterms ‘confident and paranoid’",
+    "title": "Wood Mackenzie: 20% of Global Refining Capacity Faces Rising Closure Risk",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/wood-mackenzie-20-of-global-refining-capacity-faces-rising-closure-risk/?utm_source=rss&utm_medium=rss&utm_campaign=wood-mackenzie-20-of-global-refining-capacity-faces-rising-closure-risk",
+    "published_date": "2026-11-08T13:45:00+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "MOPCO: Gas Supply Cut Increases to 33%",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/mopco-gas-supply-cut-increases-to-33/?utm_source=rss&utm_medium=rss&utm_campaign=mopco-gas-supply-cut-increases-to-33",
+    "published_date": "2026-11-08T10:31:41+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "FM discusses energy cooperation with Libyan counterpart",
     "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/democratic-leaders-enter-the-midterms-confident-and-paranoid/",
-    "published_date": "2026-11-02T09:03:23+00:00",
-    "category": "Military"
+    "url": "https://www.egyptindependent.com/fm-discusses-energy-cooperation-with-libyan-counterpart/",
+    "published_date": "2026-11-08T10:30:00+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Vaalco Drills Five Wells in Egypt in Q3 2026",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/vaalco-drills-five-wells-in-egypt-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=vaalco-drills-five-wells-in-egypt-in-q3-2026",
+    "published_date": "2026-11-08T08:30:24+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "QatarEnergy in Talks to Secure Up to 2 mtpa of LNG From NextDecade’s Texas Project",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/qatarenergy-in-talks-to-secure-up-to-2-mtpa-of-lng-from-nextdecades-texas-project/?utm_source=rss&utm_medium=rss&utm_campaign=qatarenergy-in-talks-to-secure-up-to-2-mtpa-of-lng-from-nextdecades-texas-project",
+    "published_date": "2026-11-08T07:23:10+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Iraq Taps OPEC to Increase Oil Production Quota",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/iraq-taps-opec-to-increase-oil-production-quota/?utm_source=rss&utm_medium=rss&utm_campaign=iraq-taps-opec-to-increase-oil-production-quota",
+    "published_date": "2026-11-08T06:23:53+00:00",
+    "category": "Energy"
   },
   {
     "title": "Petroleum minister discusses project financing opportunities with AFC",
@@ -312,55 +333,6 @@
     "source": "Egypt Oil & Gas",
     "url": "https://egyptoil-gas.com/news/amro-ismail-elsharkawi-named-new-mrmia-chairman/?utm_source=rss&utm_medium=rss&utm_campaign=amro-ismail-elsharkawi-named-new-mrmia-chairman",
     "published_date": "2026-11-05T10:38:18+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Egypt, UAE discuss expanding joint investments in oil, gas sector",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/egypt-uae-discuss-expanding-joint-investments-in-oil-gas-sector/",
-    "published_date": "2026-11-04T10:30:14+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Supreme Energy Council discusses electricity supply for 11 new industrial projects, factory expansions",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/03/supreme-energy-council-discusses-electricity-supply-for-11-new-industrial-projects-factory-expansions/",
-    "published_date": "2026-11-03T19:02:39+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Egypt Deputy PM highlights energy investment opportunities, regional hub ambitions at ADIPEC",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/02/egypt-deputy-pm-highlights-energy-investment-opportunities-regional-hub-ambitions-at-adipec/",
-    "published_date": "2026-11-02T18:46:27+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Egypt Moves to Power 7,000 Factories with Solar Energy",
-    "source": "Egyptian Streets",
-    "url": "https://egyptianstreets.com/2026/11/02/egypt-moves-to-power-7000-factories-with-solar-energy/",
-    "published_date": "2026-11-02T10:22:47+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Egypt plans 1,000MW solar capacity to power 7,000 factories",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/01/egypt-plans-1000mw-solar-capacity-to-power-7000-factories/",
-    "published_date": "2026-11-01T18:32:53+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Egypt explores local technologies for phosphoric acid production, seawater desalination",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/01/egypt-explores-local-technologies-for-phosphoric-acid-production-seawater-desalination/",
-    "published_date": "2026-11-01T17:57:22+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Reduction of electricity tariff brackets for coded meters begins in New Valley",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/reduction-of-electricity-tariff-brackets-for-coded-meters-begins-in-new-valley/",
-    "published_date": "2026-11-01T13:29:04+00:00",
     "category": "Energy"
   },
   {
@@ -504,143 +476,143 @@
     "category": "Economy"
   },
   {
-    "title": "أهمها صحة البشرة والفيتامينات .. تناول كوب من حليب اللوز يوميا وشاهد النتيجة",
+    "title": "رئيس الوفد ينعي ضحايا حادث قطاري العياط ويطالب بتحقيق عاجل لكشف ملابساته",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171463",
-    "published_date": "2026-11-08T02:01:00+00:00",
+    "url": "https://www.elbalad.news/7173020",
+    "published_date": "2026-11-08T16:52:40+00:00",
     "category": "Local Events"
   },
   {
-    "title": "تفاصيل ضبط 3 صانعات محتوى بتهمة نشر فيديوهات خادشة للحياء بالجيزة",
+    "title": "علاء فكري: تراجع القدرة الشرائية وانخفاض معدلات الادخار وراء تباطؤ نمو مبيعات العقارات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172063",
-    "published_date": "2026-11-08T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7173012",
+    "published_date": "2026-11-08T16:51:33+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أعلي سعر عيار ذهب في الصاغة الآن",
+    "title": "في أولى فعاليَّاتها بواحة سيوة.. قافلة واعظات الأزهر تتناول قضايا الأسرة والطفل",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171821",
-    "published_date": "2026-11-08T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7172995",
+    "published_date": "2026-11-08T16:51:20+00:00",
     "category": "Local Events"
   },
   {
-    "title": "صدمة لعشاق أبل.. هل يختفي \"زر الأكشن\" من الآيفون قريباً؟",
+    "title": "ترامب لـ\"CBS\": انتصرنا في حربي فنزويلا وإيران وحصلنا على مليارات الدولارات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171803",
-    "published_date": "2026-11-08T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7173021",
+    "published_date": "2026-11-08T16:49:41+00:00",
     "category": "Local Events"
   },
   {
-    "title": "استعدادًا للموسم الجديد.. «الزراعة» تدرب 54 مرشدًا على أسرار زيادة إنتاجية القمح",
+    "title": "برلماني: أمن السعودية جزء لا يتجزأ من أمن المنطقة.. ومصر تقف بقوة جوار الأشقاء",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171248",
-    "published_date": "2026-11-08T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7173015",
+    "published_date": "2026-11-08T16:48:51+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أمين الفتوى: زيد بن ثابت نموذج للصحابي الذي جمع بين حفظ القرآن وتعلّم اللغات لخدمة المجتمع",
+    "title": "بيانات روسية مسربة تكشف العدد الحقيقي لضحايا الحرب في أوكرانيا",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171216",
-    "published_date": "2026-11-08T02:00:00+00:00",
+    "url": "https://www.elbalad.news/7173003",
+    "published_date": "2026-11-08T16:48:40+00:00",
     "category": "Local Events"
   },
   {
-    "title": "محمد عبدالجليل: علي ماهر هينجح مع منتخب مصر على طريقة وليد الركراكي مع المغرب",
+    "title": "القبض على طرفى مشاجرة بالأسلحة البيضاء في الدقهلية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172075",
-    "published_date": "2026-11-08T01:49:10+00:00",
+    "url": "https://www.elbalad.news/7172998",
+    "published_date": "2026-11-08T16:45:47+00:00",
     "category": "Local Events"
   },
   {
-    "title": "حبس رئيس باراجواي السابق احتياطيًا داخل منشأة عسكرية .. لهذا السبب",
+    "title": "العربى الناصرى: توجيهات الرئيس السيسي ببناء قاعدة بيانات دقيقة وإعداد مخزون استراتيجي تعزز قدرة الدولة على مواجهة الأزمات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172074",
-    "published_date": "2026-11-08T01:46:53+00:00",
+    "url": "https://www.elbalad.news/7173008",
+    "published_date": "2026-11-08T16:42:54+00:00",
     "category": "Local Events"
   },
   {
-    "title": "باسم مرسي يشيد بتعيين علي ماهر مدربًا لمنتخب مصر ويتوقع تتويجه بأمم إفريقيا",
+    "title": "يحيى الفخراني: أشرف زكي فكرني بـ حمدي غيث في دفاعه عن الفنانين.. وخسارة كبيرة يمشي من منصبه",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172065",
-    "published_date": "2026-11-08T01:45:00+00:00",
+    "url": "https://www.elbalad.news/7173011",
+    "published_date": "2026-11-08T16:42:45+00:00",
     "category": "Local Events"
   },
   {
-    "title": "هل يعود حسام حسن لتدريب الفراعنة؟.. باسم مرسي يُثير الجدل ويُحذّر علي ماهر",
+    "title": "السيطرة على حريق اندلع في أرض زراعية بالدقهلية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172072",
-    "published_date": "2026-11-08T01:34:48+00:00",
+    "url": "https://www.elbalad.news/7172847",
+    "published_date": "2026-11-08T16:42:39+00:00",
     "category": "Local Events"
   },
   {
-    "title": "محمد عبدالجليل يُحذّر من تكرار تجربة إيهاب جلال مع علي ماهر في قيادة منتخب مصر",
+    "title": "نشوب حريق بناقلة نفط بعد اصطدامها بلغم بحري شرقي مضيق هرمز",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172073",
-    "published_date": "2026-11-08T01:32:52+00:00",
+    "url": "https://www.elbalad.news/7173009",
+    "published_date": "2026-11-08T16:42:20+00:00",
     "category": "Local Events"
   },
   {
-    "title": "علي ماهر يبكي .. إبراهيم فايق يكشف كواليس اختياره لتدريب منتخب مصر خلفًا لحسام حسن",
+    "title": "محمود شوقي يكشف عن أسماء الجهاز المعاون لعلي ماهر في قيادة المنتخب الوطني",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172070",
-    "published_date": "2026-11-08T01:30:20+00:00",
+    "url": "https://www.elbalad.news/7173000",
+    "published_date": "2026-11-08T16:40:27+00:00",
     "category": "Local Events"
   },
   {
-    "title": "قبل تصعيد الأزمة.. الزمالك يُسابق الزمن لتوفير مستحقات المحترفين الأجانب",
+    "title": "نابولي يعطل سلسلة انتصارات لاتسيو المتتالية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172071",
-    "published_date": "2026-11-08T01:24:06+00:00",
+    "url": "https://www.elbalad.news/7173002",
+    "published_date": "2026-11-08T16:39:14+00:00",
     "category": "Local Events"
   },
   {
-    "title": "خلال 24 ساعة.. الجيش اليمني يعلن تنفيذ 875 عملية ضد المتمردين..  ومقتل وإصابة 130 في صفوفهم",
+    "title": "المصريين الأحرار: سلامة المواطنين مسؤولية وطنية.. ونتضامن مع مصابي حادث العياط",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172069",
-    "published_date": "2026-11-08T01:10:59+00:00",
+    "url": "https://www.elbalad.news/7173006",
+    "published_date": "2026-11-08T16:38:40+00:00",
     "category": "Local Events"
   },
   {
-    "title": "قبل ما تبوّظي شنطتك الجلد.. 5 أخطاء لازم تبطليها والطرق الصحيحة لتخزينها",
+    "title": "السيدة انتصار السيسي تنعى ضحايا حادث قطاري العياط وتوجه بتقديم الدعم الكامل لأسرهم",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171450",
-    "published_date": "2026-11-08T01:01:00+00:00",
+    "url": "https://www.elbalad.news/7173007",
+    "published_date": "2026-11-08T16:37:53+00:00",
     "category": "Local Events"
   },
   {
-    "title": "نظر مُحاكمة المتهمين بإنهاء حياة طالب هندسة الأكاديمية العربية بالنزهة.. اليوم",
+    "title": "تشكيل مانشستر يونايتد لمواجهة أستون فيلا في الدوري الإنجليزي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172062",
-    "published_date": "2026-11-08T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7172990",
+    "published_date": "2026-11-08T16:37:49+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مواقيت الصلاة فى أسوان اليوم الأحد  8-11-2026",
+    "title": "أمير هشام يتقدم بخالص العزاء لأسر ضحايا حادث انقلاب القطار",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172038",
-    "published_date": "2026-11-08T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7172980",
+    "published_date": "2026-11-08T16:37:22+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أخبار قنا: تجهيز أسواق اليوم الواحد بالمظلات.. ومصرع شاب في حادث انقلاب دراجة نارية بمحور الشهيد باسم فكرى",
+    "title": "الدقهلية ..نجاح 3 تدخلات جراحية دقيقة لتثبيت كسور بالطرف العلوي والسفلي بمستشفى منية النصر المركزي",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172023",
-    "published_date": "2026-11-08T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7172867",
+    "published_date": "2026-11-08T16:37:02+00:00",
     "category": "Local Events"
   },
   {
-    "title": "خبير يوضح أهمية إنشاء وزارة مُوحّدة للطاقة تضم قطاعي البترول والكهرباء .. تعرّف على الأسباب",
+    "title": "تعيينات جديدة في الخارجية السورية تكسر التقاليد الدبلوماسية وتثير الجدل",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7172014",
-    "published_date": "2026-11-08T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7172997",
+    "published_date": "2026-11-08T16:36:33+00:00",
     "category": "Local Events"
   },
   {
-    "title": "حكم التوبة من الذنوب والمعاصي والأمور المحرمة.. هل يقبلها الله؟",
+    "title": "الصحة: ارتفاع أعداد مصابي حادث قطار العياط لـ112 مصابًا و7 وفيات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171860",
-    "published_date": "2026-11-08T01:00:00+00:00",
+    "url": "https://www.elbalad.news/7172991",
+    "published_date": "2026-11-08T16:35:00+00:00",
     "category": "Local Events"
   }
 ]
