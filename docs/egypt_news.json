@@ -1,5 +1,33 @@
 [
   {
+    "title": "Egypt’s Investment Minister holds talks in Washington to boost US trade, African market access",
+    "source": "Daily News Egypt",
+    "url": "https://dailynewsegypt.com/2026/11/10/egypts-investment-minister-holds-talks-in-washington-to-boost-us-trade-african-market-access/",
+    "published_date": "2026-11-10T17:24:39+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/ukraine-peace-talks-restart-after-9-months-what-makes-them-different-this-time/",
+    "published_date": "2026-11-10T13:35:13+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "France blames Iran for ‘unprecedented’ supermarket fridge cyberattack",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/france-blames-iran-for-unprecedented-supermarket-fridge-cyberattack/",
+    "published_date": "2026-11-10T10:42:19+00:00",
+    "category": "Diplomacy"
+  },
+  {
+    "title": "«ظهر بربطة عنق لها طابع فرعوني».. وزير التخطيط يشارك في قمة B20 Summit 2026 بالولايات المتحدة",
+    "source": "Al-Masry Al-Youm",
+    "url": "https://www.almasryalyoum.com/news/details/4406485",
+    "published_date": "2026-11-10T09:26:55+00:00",
+    "category": "Diplomacy"
+  },
+  {
     "title": "AOI seeks to expand industrial cooperation with Benin",
     "source": "Daily News Egypt",
     "url": "https://dailynewsegypt.com/2026/11/09/aoi-seeks-to-expand-industrial-cooperation-with-benin/",
@@ -40,6 +68,27 @@
     "url": "https://dailynewsegypt.com/2026/11/03/fra-hosts-omani-delegation-to-strengthen-regulatory-cooperation-exchange-expertise/",
     "published_date": "2026-11-03T18:46:51+00:00",
     "category": "Diplomacy"
+  },
+  {
+    "title": "Egypt’s FM discusses regional de-escalation with French, Ukrainian, Canadian counterparts",
+    "source": "Daily News Egypt",
+    "url": "https://dailynewsegypt.com/2026/11/10/egypts-fm-discusses-regional-de-escalation-with-french-ukrainian-canadian-counterparts/",
+    "published_date": "2026-11-10T18:21:55+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports",
+    "source": "Egypt Independent",
+    "url": "https://www.egyptindependent.com/us-evacuates-aircraft-from-british-military-base-after-threat-from-iran-wsj-reports/",
+    "published_date": "2026-11-10T13:34:01+00:00",
+    "category": "Military"
+  },
+  {
+    "title": "Attack Targets Saudi Arabia’s East-West Oil Pipeline in Medina",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/attack-targets-saudi-arabias-east-west-oil-pipeline-in-medina/?utm_source=rss&utm_medium=rss&utm_campaign=attack-targets-saudi-arabias-east-west-oil-pipeline-in-medina",
+    "published_date": "2026-11-10T07:30:05+00:00",
+    "category": "Military"
   },
   {
     "title": "Aton Resources Reviews Egypt Expansion Plans with MRMIA",
@@ -161,25 +210,39 @@
     "category": "Military"
   },
   {
-    "title": "JPMorgan: Global Oil Market Returns to Surplus as Middle East Exports Recover",
+    "title": "Türkiye Plans to Boost Output from Gabar Oil Fields to More Than 100,000 Bbl/d",
     "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/jpmorgan-global-oil-market-returns-to-surplus-as-middle-east-exports-recover/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-global-oil-market-returns-to-surplus-as-middle-east-exports-recover",
-    "published_date": "2026-11-05T07:45:57+00:00",
-    "category": "Military"
+    "url": "https://egyptoil-gas.com/news/turkiye-plans-to-boost-output-from-gabar-oil-fields-to-more-than-100000-bbl-d/?utm_source=rss&utm_medium=rss&utm_campaign=turkiye-plans-to-boost-output-from-gabar-oil-fields-to-more-than-100000-bbl-d",
+    "published_date": "2026-11-10T15:25:28+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Al-Sisi awards Mayar Othman Medal of Excellence after Arab Reading Challenge victory",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/04/al-sisi-awards-mayar-othman-medal-of-excellence-after-arab-reading-challenge-victory/",
-    "published_date": "2026-11-04T19:37:37+00:00",
-    "category": "Military"
+    "title": "ADNOC Drilling Wins Contracts Worth Up to $313.6Mn in Kuwait",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/adnoc-drilling-wins-contracts-worth-up-to-313-6mn-in-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=adnoc-drilling-wins-contracts-worth-up-to-313-6mn-in-kuwait",
+    "published_date": "2026-11-10T14:30:14+00:00",
+    "category": "Energy"
   },
   {
-    "title": "Iran supreme leader says midterms results will not reverse US’ “hostility” towards Tehran",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/iran-supreme-leader-says-midterms-results-will-not-reverse-us-hostility-towards-tehran/",
-    "published_date": "2026-11-04T14:07:59+00:00",
-    "category": "Military"
+    "title": "ADNOC Gas Explores Alternative Export Routes Amid Strait of Hormuz Disruptions",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/adnoc-gas-explores-alternative-export-routes-amid-strait-of-hormuz-disruptions/?utm_source=rss&utm_medium=rss&utm_campaign=adnoc-gas-explores-alternative-export-routes-amid-strait-of-hormuz-disruptions",
+    "published_date": "2026-11-10T13:01:39+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "ExxonMobil Eyes Venezuela Return After Nearly 20 Years",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/exxonmobil-eyes-venezuela-return-after-nearly-20-years/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-eyes-venezuela-return-after-nearly-20-years",
+    "published_date": "2026-11-10T08:21:02+00:00",
+    "category": "Energy"
+  },
+  {
+    "title": "Hormuz LNG Shipments Reach Highest Level Since Iran War Began",
+    "source": "Egypt Oil & Gas",
+    "url": "https://egyptoil-gas.com/news/hormuz-lng-shipments-reach-highest-level-since-iran-war-began/?utm_source=rss&utm_medium=rss&utm_campaign=hormuz-lng-shipments-reach-highest-level-since-iran-war-began",
+    "published_date": "2026-11-10T07:46:34+00:00",
+    "category": "Energy"
   },
   {
     "title": "Electricity minister seeks stronger renewable energy partnerships with ADVEC",
@@ -287,39 +350,32 @@
     "category": "Energy"
   },
   {
-    "title": "QatarEnergy in Talks to Secure Up to 2 mtpa of LNG From NextDecade’s Texas Project",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/qatarenergy-in-talks-to-secure-up-to-2-mtpa-of-lng-from-nextdecades-texas-project/?utm_source=rss&utm_medium=rss&utm_campaign=qatarenergy-in-talks-to-secure-up-to-2-mtpa-of-lng-from-nextdecades-texas-project",
-    "published_date": "2026-11-08T07:23:10+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Iraq Taps OPEC to Increase Oil Production Quota",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/iraq-taps-opec-to-increase-oil-production-quota/?utm_source=rss&utm_medium=rss&utm_campaign=iraq-taps-opec-to-increase-oil-production-quota",
-    "published_date": "2026-11-08T06:23:53+00:00",
-    "category": "Energy"
-  },
-  {
-    "title": "Petroleum minister discusses project financing opportunities with AFC",
+    "title": "Egypt’s cabinet approves second phase of World Bank budget support programme",
     "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/07/petroleum-minister-discusses-project-financing-opportunities-with-afc/",
-    "published_date": "2026-11-07T19:12:18+00:00",
-    "category": "Energy"
+    "url": "https://dailynewsegypt.com/2026/11/10/egypts-cabinet-approves-second-phase-of-world-bank-budget-support-programme/",
+    "published_date": "2026-11-10T18:13:11+00:00",
+    "category": "Economy"
   },
   {
-    "title": "Egypt, African Finance Corporation Discuss Funding Oil, Gas Projects",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/egypt-african-finance-corporation-discuss-funding-oil-gas-and-mining-projects/?utm_source=rss&utm_medium=rss&utm_campaign=egypt-african-finance-corporation-discuss-funding-oil-gas-and-mining-projects",
-    "published_date": "2026-11-07T09:56:16+00:00",
-    "category": "Energy"
+    "title": "CIB reports EGP 103bn in revenue, EGP 63.1bn in net income in 9M 2026",
+    "source": "Daily News Egypt",
+    "url": "https://dailynewsegypt.com/2026/11/10/cib-reports-egp-103bn-in-revenue-egp-63-1bn-in-net-income-in-9m-2026/",
+    "published_date": "2026-11-10T18:04:56+00:00",
+    "category": "Economy"
   },
   {
-    "title": "ADNOC Signs 10-Year Agreement to Supply LNG to India",
-    "source": "Egypt Oil & Gas",
-    "url": "https://egyptoil-gas.com/news/adnoc-signs-10-year-agreement-to-supply-lng-to-india/?utm_source=rss&utm_medium=rss&utm_campaign=adnoc-signs-10-year-agreement-to-supply-lng-to-india",
-    "published_date": "2026-11-06T15:22:09+00:00",
-    "category": "Energy"
+    "title": "SCZONE, Shanghai Pudong Development Bank explore investment, financing partnership",
+    "source": "Daily News Egypt",
+    "url": "https://dailynewsegypt.com/2026/11/10/sczone-shanghai-pudong-development-bank-explore-investment-financing-partnership/",
+    "published_date": "2026-11-10T17:20:54+00:00",
+    "category": "Economy"
+  },
+  {
+    "title": "Private sector contributes 80% of Egypt’s GDP: Minister",
+    "source": "Daily News Egypt",
+    "url": "https://dailynewsegypt.com/2026/11/10/private-sector-contributes-80-of-egypts-gdp-minister/",
+    "published_date": "2026-11-10T17:17:24+00:00",
+    "category": "Economy"
   },
   {
     "title": "Drive Finance raises EGP 1.5bn through bond issuance to fund expansion",
@@ -434,171 +490,143 @@
     "category": "Economy"
   },
   {
-    "title": "Egypt targets annual production of 100,000 electric vehicles by 2032",
+    "title": "حالة الطقس غدا الأربعاء ودرجات الحرارة المتوقعة في القاهرة والمحافظات",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175818",
+    "published_date": "2026-11-10T18:23:16+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "ضبط 331 كيلو مقرمشات منتهية الصلاحية بجمصة في الدقهلية",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175801",
+    "published_date": "2026-11-10T18:21:31+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "أسامة الدليل: الإخوان يجيدون استغلال الفوضى لتحقيق أهدافهم",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175815",
+    "published_date": "2026-11-10T18:19:58+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "بث مباشر| أحمد موسى يكشف تفاصيل جلسة الاستماع العاجلة لوزير النقل بالنواب",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175773",
+    "published_date": "2026-11-10T18:19:55+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "جيرارد: لامين يامال يتفوق على ميسي ورونالدو في التطور الكروي بعمر 19 عامًا",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175817",
+    "published_date": "2026-11-10T18:19:42+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "أيمن الشريعي يفجر مفاجأة بشأن مفاوضات الخطيب لضم مصطفى شلبي وجون إيبوكا",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175814",
+    "published_date": "2026-11-10T18:19:25+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt’s wheat output reaches 11m tonnes, agriculture minister tells Senate",
     "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/04/egypt-targets-annual-production-of-100000-electric-vehicles-by-2032/",
-    "published_date": "2026-11-04T19:40:54+00:00",
-    "category": "Economy"
+    "url": "https://dailynewsegypt.com/2026/11/10/egypts-wheat-output-reaches-11m-tonnes-agriculture-minister-tells-senate/",
+    "published_date": "2026-11-10T18:19:12+00:00",
+    "category": "Local Events"
   },
   {
-    "title": "Al-Sisi calls for transforming AOI into industrial integration platform",
+    "title": "ملك البحرين يثمن جهود السعودية لدعم الأمن والسلم فى المنطقة",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175804",
+    "published_date": "2026-11-10T18:18:55+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "نبيل فهمي يؤكد أهمية مشاركة العرب في صياغة الترتيبات الإقليمية",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175807",
+    "published_date": "2026-11-10T18:18:53+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "رئيس غانا يعلن اكتشافا جديدا للنفط والغاز قبالة الساحل الغربي للبلاد",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175811",
+    "published_date": "2026-11-10T18:18:37+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "حازم إمام: حسام حسن كان يستحق فرصة أخرى.. ومشاكله خارج الملعب عجلت برحيله",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175813",
+    "published_date": "2026-11-10T18:18:28+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "منتخب الناشئين يهزم تونس 2-1 في التصفيات المؤهلة لكأس الأمم الأفريقية",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175809",
+    "published_date": "2026-11-10T18:17:47+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "فوائد غير متوقعة للكيوي على القلب والهضم والأمعاء",
+    "source": "Sada El Balad",
+    "url": "https://www.elbalad.news/7175806",
+    "published_date": "2026-11-10T18:17:29+00:00",
+    "category": "Local Events"
+  },
+  {
+    "title": "Egypt calls for urgent health support for Palestine, Sudan and Yemen",
     "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/04/al-sisi-calls-for-transforming-aoi-into-industrial-integration-platform/",
-    "published_date": "2026-11-04T19:25:48+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Why did America swing back to the Democrats? It was the economy all along",
-    "source": "Egypt Independent",
-    "url": "https://www.egyptindependent.com/why-did-america-swing-back-to-the-democrats-it-was-the-economy-all-along/",
-    "published_date": "2026-11-04T14:27:05+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "Opinion | Egypt at the Heart of the Global Tourism Industry",
-    "source": "Daily News Egypt",
-    "url": "https://dailynewsegypt.com/2026/11/04/opinion-egypt-at-the-heart-of-the-global-tourism-industry/",
-    "published_date": "2026-11-04T00:19:57+00:00",
-    "category": "Economy"
-  },
-  {
-    "title": "أسباب الصداع عند الأطفال.. 9 مشكلات صحية تهدد أبنائك",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174730",
-    "published_date": "2026-11-10T04:30:00+00:00",
+    "url": "https://dailynewsegypt.com/2026/11/10/egypt-calls-for-urgent-health-support-for-palestine-sudan-and-yemen/",
+    "published_date": "2026-11-10T18:15:55+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أستاذ طب نفسي: العزلة الاجتماعية تضعف الجهاز المناعي وتصيب الإنسان بالخرف",
+    "title": "الدولار الكندي يتراجع بفعل هبوط النفط وترقب بيانات التضخم الأمريكية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174623",
-    "published_date": "2026-11-10T04:30:00+00:00",
+    "url": "https://www.elbalad.news/7175808",
+    "published_date": "2026-11-10T18:14:38+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ماهر فرغلي: الحكم النهائي بإدراج الإخوان كيانًا إرهابيًا يغلق الباب أمام عودة التنظيم إلى مصر",
+    "title": "علي ماهر: لا إقصاء لأي لاعب من منتخب مصر.. وأثق في جهازي المعاون",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174646",
-    "published_date": "2026-11-10T04:17:52+00:00",
+    "url": "https://www.elbalad.news/7175803",
+    "published_date": "2026-11-10T18:14:21+00:00",
     "category": "Local Events"
   },
   {
-    "title": "بقرار وزارى.. سلامة عمار عميدًا للمعهد العالي التكنولوجي للسياحة والفنادق بقنا",
+    "title": "وزير الصحة الفلسطيني يبحث مع أمين عام اتحاد الأطباء العرب سبل دعم القطاع الصحي الفلسطيني",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174772",
-    "published_date": "2026-11-10T04:15:12+00:00",
+    "url": "https://www.elbalad.news/7175794",
+    "published_date": "2026-11-10T18:13:48+00:00",
     "category": "Local Events"
   },
   {
-    "title": "أخبار قنا.. حصد 5 مراكز متقدمة جمهورياً فى مسابقات الاتحادات الطلابية.. مقتل شخص وإصابة آخر على يد شقيقهما خلال مشاجرة ميراث",
+    "title": "زيلينسكي: محادثات أبوظبي كانت بناءة وجوهرية.. والإفراج عن الأسرى أولوية",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174771",
-    "published_date": "2026-11-10T04:13:41+00:00",
+    "url": "https://www.elbalad.news/7175805",
+    "published_date": "2026-11-10T18:13:00+00:00",
     "category": "Local Events"
   },
   {
-    "title": "ضغوط لإشعال الصراع.. نتنياهو يطارد ترامب باتصالات يومية لاستئناف حرب إيران",
+    "title": "لأول مرة.. جناح مصري موحد في معرض الحج بجدة بمشاركة 3 وزارات",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174770",
-    "published_date": "2026-11-10T04:05:03+00:00",
+    "url": "https://www.elbalad.news/7175767",
+    "published_date": "2026-11-10T18:12:42+00:00",
     "category": "Local Events"
   },
   {
-    "title": "مواعيد مباريات اليوم الثلاثاء 10-11-2026 والقنوات الناقلة",
+    "title": "جوتيريش: الاعتماد على الوقود الأحفوري يفاقم أزمة المناخ ويكبد الاقتصاد خسائر باهظة",
     "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174768",
-    "published_date": "2026-11-10T04:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "ماذا أصلي إذا استيقظت قبل الشروق بقليل.. الفريضة أولا أم السُنة؟",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174752",
-    "published_date": "2026-11-10T04:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "الزراعة تتحرك لمواجهة التغيرات المناخية.. مشروع دولي لتحسين خصوبة الأراضي القلوية بسوهاج",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174718",
-    "published_date": "2026-11-10T04:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "مودي شلاطة: عبد الناصر محمد مظلوم إعلاميًا.. وأفضل مباراة لي هذا الموسم أمام الأهلي",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174762",
-    "published_date": "2026-11-10T03:32:42+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "أستاذ طب نفسي: فطرة المجتمع المصري في رعاية كبار السن بدأت تتراجع تدريجيًا",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174613",
-    "published_date": "2026-11-10T03:30:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "لم يقصد حسام حسن.. محمد صلاح يرد على الجدل المثار حول صورته الأخيرة",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174765",
-    "published_date": "2026-11-10T03:12:38+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "هيرجع تاني.. شوبير يفجر مفاجأة بشأن مستقبل حسام حسن مع منتخب مصر",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174764",
-    "published_date": "2026-11-10T03:10:05+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "اطووا أوراقكم.. رضائي يطالب أمريكا بالاستسلام للشروط الإيرانية السبعة",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174763",
-    "published_date": "2026-11-10T03:04:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "هل قراءة سورة يس بعد صلاة الفجر تقضي الحوائج؟.. فيها 5 عجائب",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174748",
-    "published_date": "2026-11-10T03:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "أخبار أسوان.. حملات تموينية وبيطرية وإحكام السيطرة على تداول المواد البترولية",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174728",
-    "published_date": "2026-11-10T03:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "أسعار الدواجن اليوم الثلاثاء 10 نوفمبر 2026.. البيضاء بكام والبانيه؟",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174711",
-    "published_date": "2026-11-10T03:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "لا تتناول هذه الأطعمة مع الشاي.. كيف يؤثر على امتصاص الحديد في الجسم؟",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7171144",
-    "published_date": "2026-11-10T03:00:00+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "حتحوت يكشف رد فعل ياسر إبراهيم بعد استبعاده من قائمة منتخب مصر",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174761",
-    "published_date": "2026-11-10T02:56:33+00:00",
-    "category": "Local Events"
-  },
-  {
-    "title": "بشير التابعي: ناصر ماهر أفضل بديل لإمام عاشور في منتخب مصر",
-    "source": "Sada El Balad",
-    "url": "https://www.elbalad.news/7174760",
-    "published_date": "2026-11-10T02:46:47+00:00",
+    "url": "https://www.elbalad.news/7175798",
+    "published_date": "2026-11-10T18:10:14+00:00",
     "category": "Local Events"
   }
 ]
